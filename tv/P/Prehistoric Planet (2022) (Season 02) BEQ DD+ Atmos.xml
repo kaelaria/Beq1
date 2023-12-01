@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>12.0</freq>
-    <q>0.6</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>8.0</freq>
+    <q>3.0</q>
+    <boost>-3.9</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002655052045586,-1.9989297699356847,0.9986651871909237,1.9989300251417554,-0.9989304371894114,</dec>
-    <hex>0x3f8008b3,0xbfffdcee,0x3f7fa886,0x3fffdcf0,0xbf7fb9e8,</hex>
+    <dec>0.9999604913432046,-1.9997812870090366,0.9998210697915603,1.9997812870090366,-0.9997815611347648,</dec>
+    <hex>0x3f7ffd69,0xbffff8d5,0x3f7ff446,0x3ffff8d5,0xbf7ff1af,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>1.7</boost>
+    <freq>16.0</freq>
+    <q>0.7</q>
+    <boost>3.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000299331753955,-1.9997222399433148,0.9996931462533722,1.9997222399433148,-0.9997230794287679,</dec>
-    <hex>0x3f8000fb,0xbffff6e6,0x3f7febe4,0x3ffff6e6,0xbf7fedda,</hex>
+    <dec>1.00032966042078,-1.9987975540426077,0.9984689895857247,1.9987975540426077,-0.998798650006505,</dec>
+    <hex>0x3f800acd,0xbfffd899,0x3f7f9baa,0x3fffd899,0xbf7fb145,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>21.0</freq>
-    <q>0.707</q>
-    <boost>5.0</boost>
+    <freq>16.0</freq>
+    <q>0.8</q>
+    <boost>6.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002807779246843,-1.998315967804364,0.9980377069215118,1.9983165186069602,-0.9983179340435996,</dec>
-    <hex>0x3f800933,0xbfffc8d1,0x3f7f7f66,0x3fffc8d6,0xbf7f91c4,</hex>
+    <dec>1.0002387342921844,-1.9989075125349363,0.9986703533864895,1.9989079187862688,-0.9989086814273416,</dec>
+    <hex>0x3f8007d3,0xbfffdc34,0x3f7fa8dc,0x3fffdc37,0xbf7fb87b,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>40.0</freq>
-    <q>0.55</q>
-    <boost>-0.3</boost>
+    <freq>37.0</freq>
+    <q>2.0</q>
+    <boost>-1.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999179924894281,-1.9951619618517344,0.9952508066940821,1.9951619618517344,-0.9951687991835102,</dec>
-    <hex>0x3f7ffaa0,0xbfff6178,0x3f7ec8c2,0x3fff6178,0xbf7ec362,</hex>
+    <dec>0.9999163471818961,-1.9986975624838037,0.9987870758585413,1.9986975624838037,-0.9987034230404376,</dec>
+    <hex>0x3f7ffa85,0xbfffd552,0x3f7fb083,0x3fffd552,0xbf7fab07,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>12.0</freq>
-    <q>0.6</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>8.0</freq>
+    <q>3.0</q>
+    <boost>-3.9</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002655052045586,-1.9989297699356847,0.9986651871909237,1.9989300251417554,-0.9989304371894114,</dec>
-    <hex>0x3f8008b3,0xbfffdcee,0x3f7fa886,0x3fffdcf0,0xbf7fb9e8,</hex>
+    <dec>0.9999604913432046,-1.9997812870090366,0.9998210697915603,1.9997812870090366,-0.9997815611347648,</dec>
+    <hex>0x3f7ffd69,0xbffff8d5,0x3f7ff446,0x3ffff8d5,0xbf7ff1af,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>14.0</freq>
-    <q>3.0</q>
-    <boost>1.7</boost>
+    <freq>16.0</freq>
+    <q>0.7</q>
+    <boost>3.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0000299331753955,-1.9997222399433148,0.9996931462533722,1.9997222399433148,-0.9997230794287679,</dec>
-    <hex>0x3f8000fb,0xbffff6e6,0x3f7febe4,0x3ffff6e6,0xbf7fedda,</hex>
+    <dec>1.00032966042078,-1.9987975540426077,0.9984689895857247,1.9987975540426077,-0.998798650006505,</dec>
+    <hex>0x3f800acd,0xbfffd899,0x3f7f9baa,0x3fffd899,0xbf7fb145,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>21.0</freq>
-    <q>0.707</q>
-    <boost>5.0</boost>
+    <freq>16.0</freq>
+    <q>0.8</q>
+    <boost>6.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002807779246843,-1.998315967804364,0.9980377069215118,1.9983165186069602,-0.9983179340435996,</dec>
-    <hex>0x3f800933,0xbfffc8d1,0x3f7f7f66,0x3fffc8d6,0xbf7f91c4,</hex>
+    <dec>1.0002387342921844,-1.9989075125349363,0.9986703533864895,1.9989079187862688,-0.9989086814273416,</dec>
+    <hex>0x3f8007d3,0xbfffdc34,0x3f7fa8dc,0x3fffdc37,0xbf7fb87b,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>40.0</freq>
-    <q>0.55</q>
-    <boost>-0.3</boost>
+    <freq>37.0</freq>
+    <q>2.0</q>
+    <boost>-1.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999179924894281,-1.9951619618517344,0.9952508066940821,1.9951619618517344,-0.9951687991835102,</dec>
-    <hex>0x3f7ffaa0,0xbfff6178,0x3f7ec8c2,0x3fff6178,0xbf7ec362,</hex>
+    <dec>0.9999163471818961,-1.9986975624838037,0.9987870758585413,1.9986975624838037,-0.9987034230404376,</dec>
+    <hex>0x3f7ffa85,0xbfffd552,0x3f7fb083,0x3fffd552,0xbf7fab07,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Prehistoric Planet</beq_title><beq_alt_title /><beq_sortTitle>prehistoric planet</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Prehistoric%20Planet%20S01E01-05%20(2022)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Prehistoric%20Planet%20S01E01-05%20(2022)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Experience the wonders of our world like never before in this epic series from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>95171</beq_theMovieDB><beq_poster>/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="99">Documentary</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Prehistoric Planet</beq_title><beq_alt_title /><beq_sortTitle>prehistoric planet</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Prehistoric%20Planet%20S02E01-05%20(2022)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Prehistoric%20Planet%20S02E01-05%20(2022)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Experience the wonders of our world like never before in this epic series from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>95171</beq_theMovieDB><beq_poster>/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="99">Documentary</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
