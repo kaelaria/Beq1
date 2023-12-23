@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>-4.0</boost>
+    <boost>-5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.99990559546763,-1.9990820324390777,0.9991767770803176,1.9990819329753962,-0.9990824720116294,</dec>
-    <hex>0x3f7ff9d0,0xbfffe1ec,0x3f7fca0d,0x3fffe1eb,0xbf7fc3de,</hex>
+    <dec>0.999874707135596,-1.999047058912463,0.9991726673575111,1.9990469262467778,-0.9990475071587916,</dec>
+    <hex>0x3f7ff7ca,0xbfffe0c6,0x3f7fc9c8,0x3fffe0c5,0xbf7fc194,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>22.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.8</q>
-    <boost>-4.0</boost>
+    <boost>-5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.99990559546763,-1.9990820324390777,0.9991767770803176,1.9990819329753962,-0.9990824720116294,</dec>
-    <hex>0x3f7ff9d0,0xbfffe1ec,0x3f7fca0d,0x3fffe1eb,0xbf7fc3de,</hex>
+    <dec>0.999874707135596,-1.999047058912463,0.9991726673575111,1.9990469262467778,-0.9990475071587916,</dec>
+    <hex>0x3f7ff7ca,0xbfffe0c6,0x3f7fc9c8,0x3fffe0c5,0xbf7fc194,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>22.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>What If...?</beq_title><beq_alt_title /><beq_sortTitle>what if...?</beq_sortTitle><beq_year>2021</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/What%20If%20(2021)%20S02E01%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/What%20If%20(2021)%20S02E01%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02E01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>91363</beq_theMovieDB><beq_poster>/cR8fWQlbZxsw08Ky3bqKtLUYSFv.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>What If...?</beq_title><beq_alt_title /><beq_sortTitle>what if...?</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/What%20If%20(2021)%20S02E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/What%20If%20(2021)%20S02E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02E01-02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>91363</beq_theMovieDB><beq_poster>/cR8fWQlbZxsw08Ky3bqKtLUYSFv.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="16">Animation</genre><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
