@@ -811,51 +811,60 @@
     <hex>0x3f800807,0xbfffe859,0x3f7fc0b0,0x3fffe85b,0xbf7fd0ba,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
-    <q>5.0</q>
-    <boost>-2.0</boost>
+    <freq>19.0</freq>
+    <q>4.0</q>
+    <boost>-3.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999728169419664,-1.999734277902587,0.9997628486901424,1.999734277902587,-0.9997356656321087,</dec>
-    <hex>0x3f7ffe38,0xbffff74b,0x3f7ff075,0x3ffff74b,0xbf7feead,</hex>
+    <dec>0.9999351244073843,-1.9996160528262537,0.9996824745323659,1.9996160528262537,-0.9996175989397501,</dec>
+    <hex>0x3f7ffbc0,0xbffff36b,0x3f7feb31,0x3ffff36b,0xbf7fe6f0,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
+    <freq>23.0</freq>
+    <q>4.0</q>
+    <boost>-4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>0.9999125982719624,-1.9995240671207155,0.9996137343796685,1.9995240671207155,-0.9995263326516309,</dec>
+    <hex>0x3f7ffa46,0xbffff068,0x3f7fe6b0,0x3ffff068,0xbf7fe0f5,</hex>
+  </filter>
+  <filter name="PEQ_1_8" addr="8315">
     <freq>26.0</freq>
     <q>3.0</q>
     <boost>3.4</boost>
@@ -864,7 +873,7 @@
     <dec>1.0001117025356374,-1.999530811523215,0.9994220040810868,1.999530811523215,-0.9995337066167242,</dec>
     <hex>0x3f8003a9,0xbffff0a0,0x3f7fda1f,0x3ffff0a0,0xbf7fe171,</hex>
   </filter>
-  <filter name="PEQ_1_8" addr="8315">
+  <filter name="PEQ_1_9" addr="8320">
     <freq>35.0</freq>
     <q>2.0</q>
     <boost>-3.9</boost>
@@ -872,15 +881,6 @@
     <bypass>0</bypass>
     <dec>0.9997408820772514,-1.9985621227566757,0.9988264844292717,1.9985621227566757,-0.9985673665065232,</dec>
     <hex>0x3f7fef05,0xbfffd0e2,0x3f7fb318,0x3fffd0e2,0xbf7fa21c,</hex>
-  </filter>
-  <filter name="PEQ_1_9" addr="8320">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_10" addr="8325">
     <freq>1000</freq>
@@ -901,51 +901,60 @@
     <hex>0x3f800807,0xbfffe859,0x3f7fc0b0,0x3fffe85b,0xbf7fd0ba,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
-    <q>5.0</q>
-    <boost>-2.0</boost>
+    <freq>19.0</freq>
+    <q>4.0</q>
+    <boost>-3.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999728169419664,-1.999734277902587,0.9997628486901424,1.999734277902587,-0.9997356656321087,</dec>
-    <hex>0x3f7ffe38,0xbffff74b,0x3f7ff075,0x3ffff74b,0xbf7feead,</hex>
+    <dec>0.9999351244073843,-1.9996160528262537,0.9996824745323659,1.9996160528262537,-0.9996175989397501,</dec>
+    <hex>0x3f7ffbc0,0xbffff36b,0x3f7feb31,0x3ffff36b,0xbf7fe6f0,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>22.0</freq>
     <q>0.7</q>
-    <boost>7.0</boost>
+    <boost>6.7</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004173232528524,-1.998317530076369,0.9979033063662024,1.9983183875902815,-0.9983197721051427,</dec>
-    <hex>0x3f800dad,0xbfffc8de,0x3f7f7697,0x3fffc8e6,0xbf7f91e2,</hex>
+    <dec>1.0003992083518858,-1.9983029858536758,0.9979068239545982,1.9983038047690993,-0.9983052133910604,</dec>
+    <hex>0x3f800d15,0xbfffc864,0x3f7f76d2,0x3fffc86b,0xbf7f90ee,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
+    <freq>23.0</freq>
+    <q>4.0</q>
+    <boost>-4.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>0.9999125982719624,-1.9995240671207155,0.9996137343796685,1.9995240671207155,-0.9995263326516309,</dec>
+    <hex>0x3f7ffa46,0xbffff068,0x3f7fe6b0,0x3ffff068,0xbf7fe0f5,</hex>
+  </filter>
+  <filter name="PEQ_2_8" addr="8365">
     <freq>26.0</freq>
     <q>3.0</q>
     <boost>3.4</boost>
@@ -954,7 +963,7 @@
     <dec>1.0001117025356374,-1.999530811523215,0.9994220040810868,1.999530811523215,-0.9995337066167242,</dec>
     <hex>0x3f8003a9,0xbffff0a0,0x3f7fda1f,0x3ffff0a0,0xbf7fe171,</hex>
   </filter>
-  <filter name="PEQ_2_8" addr="8365">
+  <filter name="PEQ_2_9" addr="8370">
     <freq>35.0</freq>
     <q>2.0</q>
     <boost>-3.9</boost>
@@ -962,15 +971,6 @@
     <bypass>0</bypass>
     <dec>0.9997408820772514,-1.9985621227566757,0.9988264844292717,1.9985621227566757,-0.9985673665065232,</dec>
     <hex>0x3f7fef05,0xbfffd0e2,0x3f7fb318,0x3fffd0e2,0xbf7fa21c,</hex>
-  </filter>
-  <filter name="PEQ_2_9" addr="8370">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_10" addr="8375">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Percy Jackson and the Olympians</beq_title><beq_alt_title /><beq_sortTitle>percy jackson and the olympians</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20the%20Olympians%20(2023)%20S01E01-04%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20the%20Olympians%20(2023)%20S01E01-04%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-04</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>103540</beq_theMovieDB><beq_poster>/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="10751">Family</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Percy Jackson and the Olympians</beq_title><beq_alt_title /><beq_sortTitle>percy jackson and the olympians</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20theOlympians%20(2023)%20S01E01-06%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20theOlympians%20(2023)%20S01E01-06%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-06</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>103540</beq_theMovieDB><beq_poster>/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="10751">Family</genre></beq_genres></beq_metadata></setting>
