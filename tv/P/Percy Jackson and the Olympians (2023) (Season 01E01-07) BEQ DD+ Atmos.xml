@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.7</q>
-    <boost>9.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000244948033728,-1.9992781499380592,0.9990339207912876,1.9992783818461786,-0.9992786369168959,</dec>
-    <hex>0x3f800807,0xbfffe859,0x3f7fc0b0,0x3fffe85b,0xbf7fd0ba,</hex>
+    <dec>1.0001622837982767,-1.9992131527472994,0.9990514737973332,1.9992133036003288,-0.9992136067425805,</dec>
+    <hex>0x3f800551,0xbfffe637,0x3f7fc1d6,0x3fffe639,0xbf7fcc77,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>19.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.7</q>
-    <boost>9.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000244948033728,-1.9992781499380592,0.9990339207912876,1.9992783818461786,-0.9992786369168959,</dec>
-    <hex>0x3f800807,0xbfffe859,0x3f7fc0b0,0x3fffe85b,0xbf7fd0ba,</hex>
+    <dec>1.0001622837982767,-1.9992131527472994,0.9990514737973332,1.9992133036003288,-0.9992136067425805,</dec>
+    <hex>0x3f800551,0xbfffe637,0x3f7fc1d6,0x3fffe639,0xbf7fcc77,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>19.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Percy Jackson and the Olympians</beq_title><beq_alt_title /><beq_sortTitle>percy jackson and the olympians</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20theOlympians%20(2023)%20S01E01-06%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20theOlympians%20(2023)%20S01E01-06%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-06</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>103540</beq_theMovieDB><beq_poster>/c9loCTYWZpzYBTJBvE3DtRw4DBb.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="10751">Family</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Percy Jackson and the Olympians</beq_title><beq_alt_title /><beq_sortTitle>percy jackson and the olympians</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20the%20Olympians%20(2023)%20S01E01-07%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Percy%20Jackson%20and%20the%20Olympians%20(2023)%20S01E01-07%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-07</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus' master bolt and stop an all-out war. With the help of his quest mates Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and find out who he's destined to be.</beq_overview><beq_rating>TV-PG</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>103540</beq_theMovieDB><beq_poster>/ia2RRScDR0X7Elw6S49u3peLJTx.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="10751">Family</genre></beq_genres></beq_metadata></setting>
