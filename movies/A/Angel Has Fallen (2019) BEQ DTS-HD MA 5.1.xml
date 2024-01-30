@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>-5.6</boost>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998486556778611,-1.9989016259556125,0.999053280432733,1.9989014855390363,-0.9989020765271702,</dec>
-    <hex>0x3f7ff615,0xbfffdc02,0x3f7fc1f5,0x3fffdc01,0xbf7fb80c,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>-5.6</boost>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998486556778611,-1.9989016259556125,0.999053280432733,1.9989014855390363,-0.9989020765271702,</dec>
-    <hex>0x3f7ff615,0xbfffdc02,0x3f7fc1f5,0x3fffdc01,0xbf7fb80c,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>21.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>21.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>21.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
-    <freq>40.0</freq>
-    <q>4.0</q>
-    <boost>-0.5</boost>
+    <freq>41.0</freq>
+    <q>3.0</q>
+    <boost>-0.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999811657836611,-1.9993197658176591,0.999345451614384,1.9993197658176591,-0.9993266173980451,</dec>
-    <hex>0x3f7ffec4,0xbfffe9b6,0x3f7fd51b,0x3fffe9b6,0xbf7fd3df,</hex>
+    <dec>0.9999588123934876,-1.999056605222994,0.9991049903246946,1.999056605222994,-0.9990638027181823,</dec>
+    <hex>0x3f7ffd4d,0xbfffe116,0x3f7fc558,0x3fffe116,0xbf7fc2a5,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>-5.6</boost>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998486556778611,-1.9989016259556125,0.999053280432733,1.9989014855390363,-0.9989020765271702,</dec>
-    <hex>0x3f7ff615,0xbfffdc02,0x3f7fc1f5,0x3fffdc01,0xbf7fb80c,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
-    <q>0.7</q>
-    <boost>-5.6</boost>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998486556778611,-1.9989016259556125,0.999053280432733,1.9989014855390363,-0.9989020765271702,</dec>
-    <hex>0x3f7ff615,0xbfffdc02,0x3f7fc1f5,0x3fffdc01,0xbf7fb80c,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>21.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>21.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.1</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
+    <dec>1.0004107265933988,-1.9986166734157025,0.9982086762851877,1.9986175010569824,-0.9986185752373066,</dec>
+    <hex>0x3f800d75,0xbfffd2ac,0x3f7f8a9b,0x3fffd2b3,0xbf7fa578,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>21.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003718398456556,-1.9985008894386544,0.9981318740219461,1.9985016708400942,-0.9985029324661622,</dec>
-    <hex>0x3f800c2f,0xbfffcee1,0x3f7f8592,0x3fffcee7,0xbf7f9de3,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
-    <freq>40.0</freq>
-    <q>4.0</q>
-    <boost>-0.5</boost>
+    <freq>41.0</freq>
+    <q>3.0</q>
+    <boost>-0.8</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999811657836611,-1.9993197658176591,0.999345451614384,1.9993197658176591,-0.9993266173980451,</dec>
-    <hex>0x3f7ffec4,0xbfffe9b6,0x3f7fd51b,0x3fffe9b6,0xbf7fd3df,</hex>
+    <dec>0.9999588123934876,-1.999056605222994,0.9991049903246946,1.999056605222994,-0.9990638027181823,</dec>
+    <hex>0x3f7ffd4d,0xbfffe116,0x3f7fc558,0x3fffe116,0xbf7fc2a5,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Thanksgiving</beq_title><beq_alt_title /><beq_sortTitle>thanksgiving</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Thanksgiving%20(2023)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Thanksgiving%20(2023)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>1071215</beq_theMovieDB><beq_poster>/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg</beq_poster><beq_runtime>106</beq_runtime><beq_collection id="1211888">Thanksgiving Collection</beq_collection><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="53">Thriller</genre><genre id="9648">Mystery</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Angel Has Fallen</beq_title><beq_alt_title /><beq_sortTitle>angel has fallen</beq_sortTitle><beq_year>2019</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Angel%20Has%20Fallen%20(2019)%20DTS-HD%20MA%207.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Angel%20Has%20Fallen%20(2019)%20DTS-HD%20MA%207.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>After a treacherous attack, Secret Service agent Mike Banning is charged with attempting to assassinate President Trumbull. Chased by his own colleagues and the FBI, Banning begins a race against the clock to clear his name.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>423204</beq_theMovieDB><beq_poster>/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg</beq_poster><beq_runtime>122</beq_runtime><beq_collection id="386534">Has Fallen Collection</beq_collection><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType><audioType>DTS-HD MA 7.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
