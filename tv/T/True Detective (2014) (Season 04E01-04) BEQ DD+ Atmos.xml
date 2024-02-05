@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>11.0</freq>
     <q>4.0</q>
-    <boost>-4.0</boost>
+    <boost>-8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999958193995597,-1.9997729171137182,0.9998152413849603,1.9997729171137182,-0.9997734353805572,</dec>
-    <hex>0x3f7ffd43,0xbffff88f,0x3f7ff3e4,0x3ffff88f,0xbf7ff127,</hex>
+    <dec>0.9999141641867209,-1.9997142621574988,0.9998006162224158,1.9997142621574988,-0.9997147804091365,</dec>
+    <hex>0x3f7ffa60,0xbffff6a3,0x3f7ff2ef,0x3ffff6a3,0xbf7fed4f,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>20.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>11.0</freq>
     <q>4.0</q>
-    <boost>-4.0</boost>
+    <boost>-8.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999958193995597,-1.9997729171137182,0.9998152413849603,1.9997729171137182,-0.9997734353805572,</dec>
-    <hex>0x3f7ffd43,0xbffff88f,0x3f7ff3e4,0x3ffff88f,0xbf7ff127,</hex>
+    <dec>0.9999141641867209,-1.9997142621574988,0.9998006162224158,1.9997142621574988,-0.9997147804091365,</dec>
+    <hex>0x3f7ffa60,0xbffff6a3,0x3f7ff2ef,0x3ffff6a3,0xbf7fed4f,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>20.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>True Detective</beq_title><beq_alt_title /><beq_sortTitle>true detective</beq_sortTitle><beq_year>2014</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/True%20Detective%20(2014)%20S04E01-03%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/True%20Detective%20(2014)%20S04E01-03%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>Night Country E01-03</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>46648</beq_theMovieDB><beq_poster>/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>True Detective</beq_title><beq_alt_title /><beq_sortTitle>true detective</beq_sortTitle><beq_year>2014</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/True.Detective%20(2014)%20S04E01-04%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/True.Detective%20(2014)%20S04E01-04%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>04E01-04</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>46648</beq_theMovieDB><beq_poster>/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
