@@ -831,11 +831,11 @@
   <filter name="PEQ_1_4" addr="8295">
     <freq>28.0</freq>
     <q>3.0</q>
-    <boost>-4.7</boost>
+    <boost>-4.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998327714688424,-1.9991963087966116,0.9993668943899586,1.9991963087966116,-0.999199665858801,</dec>
-    <hex>0x3f7ff50a,0xbfffe5aa,0x3f7fd682,0x3fffe5aa,0xbf7fcb8d,</hex>
+    <dec>0.999843679350794,-1.9992100060065903,0.9993696837409864,1.9992100060065903,-0.9992133630917805,</dec>
+    <hex>0x3f7ff5c1,0xbfffe61d,0x3f7fd6b1,0x3fffe61d,0xbf7fcc72,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -921,11 +921,11 @@
   <filter name="PEQ_2_4" addr="8345">
     <freq>28.0</freq>
     <q>3.0</q>
-    <boost>-4.7</boost>
+    <boost>-4.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998327714688424,-1.9991963087966116,0.9993668943899586,1.9991963087966116,-0.999199665858801,</dec>
-    <hex>0x3f7ff50a,0xbfffe5aa,0x3f7fd682,0x3fffe5aa,0xbf7fcb8d,</hex>
+    <dec>0.999843679350794,-1.9992100060065903,0.9993696837409864,1.9992100060065903,-0.9992133630917805,</dec>
+    <hex>0x3f7ff5c1,0xbfffe61d,0x3f7fd6b1,0x3fffe61d,0xbf7fcc72,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Masters of the Air</beq_title><beq_alt_title /><beq_sortTitle>masters of the air</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Masters%20of%20the%20Air%20(2024)%20S01E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Masters%20of%20the%20Air%20(2024)%20S01E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>46518</beq_theMovieDB><beq_poster>/rSAmgcoA74371rplbqM27yVsd3y.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10768">War &amp; Politics</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Masters of the Air</beq_title><beq_alt_title /><beq_sortTitle>masters of the air</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Masters%20of%20the%20Air%20(2024)%20S01E01-03%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Masters%20of%20the%20Air%20(2024)%20S01E01-03%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-03</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>46518</beq_theMovieDB><beq_poster>/rSAmgcoA74371rplbqM27yVsd3y.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10768">War &amp; Politics</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
