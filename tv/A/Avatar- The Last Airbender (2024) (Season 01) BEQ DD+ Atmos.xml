@@ -831,11 +831,11 @@
   <filter name="PEQ_1_4" addr="8295">
     <freq>32.0</freq>
     <q>4.0</q>
-    <boost>-3.3</boost>
+    <boost>-3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998999679106491,-1.9993626773769486,0.999467094567354,1.9993626773769486,-0.9993670624780032,</dec>
-    <hex>0x3f7ff972,0xbfffeb1e,0x3f7fdd13,0x3fffeb1e,0xbf7fd685,</hex>
+    <dec>0.9999091559099154,-1.999373510586137,0.9994687398010362,1.999373510586137,-0.9993778957109516,</dec>
+    <hex>0x3f7ffa0c,0xbfffeb79,0x3f7fdd2f,0x3fffeb79,0xbf7fd73b,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -921,11 +921,11 @@
   <filter name="PEQ_2_4" addr="8345">
     <freq>32.0</freq>
     <q>4.0</q>
-    <boost>-3.3</boost>
+    <boost>-3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998999679106491,-1.9993626773769486,0.999467094567354,1.9993626773769486,-0.9993670624780032,</dec>
-    <hex>0x3f7ff972,0xbfffeb1e,0x3f7fdd13,0x3fffeb1e,0xbf7fd685,</hex>
+    <dec>0.9999091559099154,-1.999373510586137,0.9994687398010362,1.999373510586137,-0.9993778957109516,</dec>
+    <hex>0x3f7ffa0c,0xbfffeb79,0x3f7fdd2f,0x3fffeb79,0xbf7fd73b,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Avatar: The Last Airbender</beq_title><beq_alt_title /><beq_sortTitle>avatar: the last airbender</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%20The%20Last%20Airbender%20(2024)%20S01%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%20The%20Last%20Airbender%20(2024)%20S01%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>82452</beq_theMovieDB><beq_poster>/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Avatar: The Last Airbender</beq_title><beq_alt_title /><beq_sortTitle>avatar: the last airbender</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%20The%20Last%20Airbender%20(2024)%20S01%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Avatar%20The%20Last%20Airbender%20(2024)%20S01%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>82452</beq_theMovieDB><beq_poster>/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
