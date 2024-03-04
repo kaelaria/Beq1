@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0000251224589478,-1.9991520251355022,0.9991273562349142,1.999152049797525,-0.9991524540318389,</dec>
+    <hex>0x3f8000d3,0xbfffe437,0x3f7fc6cf,0x3fffe437,0xbf7fc875,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>15.0</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>1.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0000251224589478,-1.9991520251355022,0.9991273562349142,1.999152049797525,-0.9991524540318389,</dec>
+    <hex>0x3f8000d3,0xbfffe437,0x3f7fc6cf,0x3fffe437,0xbf7fc875,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>15.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Completely Made-Up Adventures of Dick Turpin</beq_title><beq_alt_title /><beq_sortTitle>completely made-up adventures of dick turpin</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Completely%20Made-Up%20Adventures%20of%20Dick%20Turpin%20(2024)%20S01E01%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Completely%20Made-Up%20Adventures%20of%20Dick%20Turpin%20(2024)%20S01E01%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Legendary highwayman Dick Turpin sets out on a series of wildly absurd escapades when he's made the reluctant leader of a band of outlaws—and tasked with outwitting utterly corrupt lawman Jonathan Wilde.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>197459</beq_theMovieDB><beq_poster>/lYQpsmKGaClcLJPB7hulsxmoZO6.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="35">Comedy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Completely Made-Up Adventures of Dick Turpin</beq_title><beq_alt_title /><beq_sortTitle>completely made-up adventures of dick turpin</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Completely%20Made-Up%20Adventures%20of%20Dick%20Turpin%20(2024)%20S01E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Completely%20Made-Up%20Adventures%20of%20Dick%20Turpin%20(2024)%20S01E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Legendary highwayman Dick Turpin sets out on a series of wildly absurd escapades when he's made the reluctant leader of a band of outlaws—and tasked with outwitting utterly corrupt lawman Jonathan Wilde.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>197459</beq_theMovieDB><beq_poster>/lYQpsmKGaClcLJPB7hulsxmoZO6.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="35">Comedy</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
