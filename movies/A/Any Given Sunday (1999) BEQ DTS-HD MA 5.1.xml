@@ -802,13 +802,13 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>15.0</freq>
-    <q>5.0</q>
+    <freq>10.0</freq>
+    <q>0.75</q>
     <boost>-4.0</boost>
-    <type>PK</type>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999543939227975,-1.9997518774512917,0.9997984472378624,1.9997518774512917,-0.9997528411606597,</dec>
-    <hex>0x3f7ffd03,0xbffff7df,0x3f7ff2cb,0x3ffff7df,0xbf7fefcd,</hex>
+    <dec>0.999899308227179,-1.9990208938517628,0.9991219257230525,1.9990207943911233,-0.999021333410871,</dec>
+    <hex>0x3f7ff967,0xbfffdfeb,0x3f7fc674,0x3fffdfea,0xbf7fbfdd,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>20.0</freq>
@@ -847,31 +847,31 @@
     <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>-8.3</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997294985758326,-1.9991182279643138,0.999391405512623,1.9991182279643138,-0.9991209040884556,</dec>
-    <hex>0x3f7fee46,0xbfffe31b,0x3f7fd81d,0x3fffe31b,0xbf7fc663,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>34.0</freq>
-    <q>4.0</q>
-    <boost>-0.9</boost>
+    <freq>45.0</freq>
+    <q>3.0</q>
+    <boost>-0.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999711734636022,-1.9994093161096052,0.9994430931306332,1.9994093161096052,-0.9994142665942354,</dec>
-    <hex>0x3f7ffe1c,0xbfffeca5,0x3f7fdb81,0x3fffeca5,0xbf7fd99d,</hex>
+    <dec>0.9999604498046635,-1.9989697382373839,0.9990179584525692,1.9989697382373839,-0.9989784082572328,</dec>
+    <hex>0x3f7ffd68,0xbfffde3e,0x3f7fbfa4,0x3fffde3e,0xbf7fbd0d,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
-    <freq>70.0</freq>
-    <q>2.0</q>
-    <boost>0.3</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.00003951709976,-1.9977300487724199,0.9977114980769229,1.9977300487724199,-0.9977510151766831,</dec>
-    <hex>0x3f80014b,0xbfffb59e,0x3f7f6a05,0x3fffb59e,0xbf7f6c9c,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -892,13 +892,13 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>15.0</freq>
-    <q>5.0</q>
+    <freq>10.0</freq>
+    <q>0.75</q>
     <boost>-4.0</boost>
-    <type>PK</type>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999543939227975,-1.9997518774512917,0.9997984472378624,1.9997518774512917,-0.9997528411606597,</dec>
-    <hex>0x3f7ffd03,0xbffff7df,0x3f7ff2cb,0x3ffff7df,0xbf7fefcd,</hex>
+    <dec>0.999899308227179,-1.9990208938517628,0.9991219257230525,1.9990207943911233,-0.999021333410871,</dec>
+    <hex>0x3f7ff967,0xbfffdfeb,0x3f7fc674,0x3fffdfea,0xbf7fbfdd,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>20.0</freq>
@@ -937,31 +937,31 @@
     <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>25.0</freq>
-    <q>3.0</q>
-    <boost>-8.3</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9997294985758326,-1.9991182279643138,0.999391405512623,1.9991182279643138,-0.9991209040884556,</dec>
-    <hex>0x3f7fee46,0xbfffe31b,0x3f7fd81d,0x3fffe31b,0xbf7fc663,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>34.0</freq>
-    <q>4.0</q>
-    <boost>-0.9</boost>
+    <freq>45.0</freq>
+    <q>3.0</q>
+    <boost>-0.7</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999711734636022,-1.9994093161096052,0.9994430931306332,1.9994093161096052,-0.9994142665942354,</dec>
-    <hex>0x3f7ffe1c,0xbfffeca5,0x3f7fdb81,0x3fffeca5,0xbf7fd99d,</hex>
+    <dec>0.9999604498046635,-1.9989697382373839,0.9990179584525692,1.9989697382373839,-0.9989784082572328,</dec>
+    <hex>0x3f7ffd68,0xbfffde3e,0x3f7fbfa4,0x3fffde3e,0xbf7fbd0d,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
-    <freq>70.0</freq>
-    <q>2.0</q>
-    <boost>0.3</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.00003951709976,-1.9977300487724199,0.9977114980769229,1.9977300487724199,-0.9977510151766831,</dec>
-    <hex>0x3f80014b,0xbfffb59e,0x3f7f6a05,0x3fffb59e,0xbf7f6c9c,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Beekeeper</beq_title><beq_alt_title /><beq_sortTitle>beekeeper</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Beekeeper%20(2024)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Beekeeper%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>One man’s campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>866398</beq_theMovieDB><beq_poster>/A7EByudX0eOzlkQ2FIbogzyazm2.jpg</beq_poster><beq_runtime>105</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType><audioType>Atmos</audioType><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="53">Thriller</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Any Given Sunday</beq_title><beq_alt_title /><beq_sortTitle>any given sunday</beq_sortTitle><beq_year>1999</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Any%20Given%20Sunday%20(1999)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Any%20Given%20Sunday%20(1999)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A star quarterback gets knocked out of the game and an unknown third stringer is called in to replace him. The unknown gives a stunning performance and forces the ageing coach to reevaluate his game plans and life. A new co-owner/president adds to the pressure of winning. The new owner must prove herself in a male dominated world.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>9563</beq_theMovieDB><beq_poster>/bysZeUvSPZPJnku4qkHF34CdgMG.jpg</beq_poster><beq_runtime>162</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
