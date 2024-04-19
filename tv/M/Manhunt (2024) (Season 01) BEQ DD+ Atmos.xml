@@ -804,38 +804,38 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001514738774269,-1.9992655597124975,0.9991146906992364,1.9992657105694813,-0.9992660137196796,</dec>
-    <hex>0x3f8004f7,0xbfffe7ef,0x3f7fc5fb,0x3fffe7f0,0xbf7fcfe6,</hex>
+    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
+    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
+    <freq>25.0</freq>
     <q>0.75</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003029873811276,-1.9985307507915822,0.9982301819794888,1.9985313539981375,-0.9985325661540613,</dec>
-    <hex>0x3f8009ee,0xbfffcfdb,0x3f7f8c03,0x3fffcfe0,0xbf7f9fd5,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003029873811276,-1.9985307507915822,0.9982301819794888,1.9985313539981375,-0.9985325661540613,</dec>
-    <hex>0x3f8009ee,0xbfffcfdb,0x3f7f8c03,0x3fffcfe0,0xbf7f9fd5,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>35.0</freq>
+    <freq>31.0</freq>
     <q>3.0</q>
-    <boost>-0.8</boost>
+    <boost>-2.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999648374279422,-1.9991955067764058,0.9992359147601594,1.9991955067764058,-0.9992007521881016,</dec>
-    <hex>0x3f7ffdb2,0xbfffe5a3,0x3f7fcded,0x3fffe5a3,0xbf7fcb9f,</hex>
+    <dec>0.9999141538612791,-1.9992285550627698,0.9993185162395262,1.9992285550627698,-0.9992326701008052,</dec>
+    <hex>0x3f7ffa60,0xbfffe6b9,0x3f7fd357,0x3fffe6b9,0xbf7fcdb6,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -894,38 +894,38 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001514738774269,-1.9992655597124975,0.9991146906992364,1.9992657105694813,-0.9992660137196796,</dec>
-    <hex>0x3f8004f7,0xbfffe7ef,0x3f7fc5fb,0x3fffe7f0,0xbf7fcfe6,</hex>
+    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
+    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
+    <freq>25.0</freq>
     <q>0.75</q>
-    <boost>6.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003029873811276,-1.9985307507915822,0.9982301819794888,1.9985313539981375,-0.9985325661540613,</dec>
-    <hex>0x3f8009ee,0xbfffcfdb,0x3f7f8c03,0x3fffcfe0,0xbf7f9fd5,</hex>
+    <dec>1.0005069959941155,-1.9982655815500239,0.9977628251195103,1.9982668574314897,-0.9982685452321594,</dec>
+    <hex>0x3f80109d,0xbfffc72b,0x3f7f6d62,0x3fffc735,0xbf7f8e87,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>6.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003029873811276,-1.9985307507915822,0.9982301819794888,1.9985313539981375,-0.9985325661540613,</dec>
-    <hex>0x3f8009ee,0xbfffcfdb,0x3f7f8c03,0x3fffcfe0,0xbf7f9fd5,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>35.0</freq>
+    <freq>31.0</freq>
     <q>3.0</q>
-    <boost>-0.8</boost>
+    <boost>-2.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999648374279422,-1.9991955067764058,0.9992359147601594,1.9991955067764058,-0.9992007521881016,</dec>
-    <hex>0x3f7ffdb2,0xbfffe5a3,0x3f7fcded,0x3fffe5a3,0xbf7fcb9f,</hex>
+    <dec>0.9999141538612791,-1.9992285550627698,0.9993185162395262,1.9992285550627698,-0.9992326701008052,</dec>
+    <hex>0x3f7ffa60,0xbfffe6b9,0x3f7fd357,0x3fffe6b9,0xbf7fcdb6,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Manhunt</beq_title><beq_alt_title /><beq_sortTitle>manhunt</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Manhunt%20(2024)%20S01E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Manhunt%20(2024)%20S01E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-07</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A conspiracy thriller about one of the best known but least understood crimes in history. This is the astonishing story of the hunt for John Wilkes Booth in the aftermath of Abraham Lincoln's assassination—as the fate of the country hangs in the balance.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>155533</beq_theMovieDB><beq_poster>/pN5qeqDgCG1Pij7KaEBKLkyjn4A.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Manhunt</beq_title><beq_alt_title /><beq_sortTitle>manhunt</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL /><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Manhunt%20(2024)%20S01%20DD%2B%20Atmosc.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A conspiracy thriller about one of the best known but least understood crimes in history. This is the astonishing story of the hunt for John Wilkes Booth in the aftermath of Abraham Lincoln's assassination—as the fate of the country hangs in the balance.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs>https://raw.githubusercontent.com/kaelaria/Beq2/main/Manhunt%20(2024)%20S01%20DD%2B%20Atmos.jpg</beq_avs><beq_theMovieDB>155533</beq_theMovieDB><beq_poster>/pN5qeqDgCG1Pij7KaEBKLkyjn4A.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
