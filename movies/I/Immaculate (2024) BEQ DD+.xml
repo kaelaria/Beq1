@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
+    <dec>1.0003695261253773,-1.9985845548007914,0.9982176352502627,1.99858529569483,-0.9985864204816022,</dec>
+    <hex>0x3f800c1c,0xbfffd19e,0x3f7f8b31,0x3fffd1a5,0xbf7fa35c,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
+    <dec>1.0003695261253773,-1.9985845548007914,0.9982176352502627,1.99858529569483,-0.9985864204816022,</dec>
+    <hex>0x3f800c1c,0xbfffd19e,0x3f7f8b31,0x3fffd1a5,0xbf7fa35c,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_1_4" addr="8295">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
     <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-3.2</boost>
+    <boost>-1.9</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998788017035389,-1.9992095759445743,0.999334628037779,1.9992095759445743,-0.9992134297413179,</dec>
-    <hex>0x3f7ff80f,0xbfffe619,0x3f7fd465,0x3fffe619,0xbf7fcc74,</hex>
+    <dec>0.9999282990916244,-1.9992662688281158,0.9993418236425194,1.9992662688281158,-0.9992701227341437,</dec>
+    <hex>0x3f7ffb4d,0xbfffe7f5,0x3f7fd4de,0x3fffe7f5,0xbf7fd02b,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
+    <dec>1.0003695261253773,-1.9985845548007914,0.9982176352502627,1.99858529569483,-0.9985864204816022,</dec>
+    <hex>0x3f800c1c,0xbfffd19e,0x3f7f8b31,0x3fffd1a5,0xbf7fa35c,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>18.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.9</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
+    <dec>1.0003695261253773,-1.9985845548007914,0.9982176352502627,1.99858529569483,-0.9985864204816022,</dec>
+    <hex>0x3f800c1c,0xbfffd19e,0x3f7f8b31,0x3fffd1a5,0xbf7fa35c,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_2_4" addr="8345">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>18.0</freq>
-    <q>0.75</q>
-    <boost>7.9</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003603548530062,-1.9987479252916456,0.9983897561391264,1.9987485780324803,-0.998749458251298,</dec>
-    <hex>0x3f800bcf,0xbfffd6f9,0x3f7f9679,0x3fffd6fe,0xbf7fae0b,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
     <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-3.2</boost>
+    <boost>-1.9</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998788017035389,-1.9992095759445743,0.999334628037779,1.9992095759445743,-0.9992134297413179,</dec>
-    <hex>0x3f7ff80f,0xbfffe619,0x3f7fd465,0x3fffe619,0xbf7fcc74,</hex>
+    <dec>0.9999282990916244,-1.9992662688281158,0.9993418236425194,1.9992662688281158,-0.9992701227341437,</dec>
+    <hex>0x3f7ffb4d,0xbfffe7f5,0x3f7fd4de,0x3fffe7f5,0xbf7fd02b,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Monkey Man</beq_title><beq_alt_title /><beq_sortTitle>monkey man</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Monkey%20Man%20(2024)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Monkey%20Man%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>560016</beq_theMovieDB><beq_poster>/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg</beq_poster><beq_runtime>121</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="53">Thriller</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Immaculate</beq_title><beq_alt_title /><beq_sortTitle>immaculate</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Immaculate%20(2024)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Immaculate%20(2024)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>1041613</beq_theMovieDB><beq_poster>/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg</beq_poster><beq_runtime>89</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="9648">Mystery</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
