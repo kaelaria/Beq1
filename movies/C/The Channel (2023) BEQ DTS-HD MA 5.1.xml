@@ -802,31 +802,31 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>25.0</freq>
+    <freq>15.0</freq>
     <q>0.75</q>
-    <boost>7.6</boost>
+    <boost>8.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000481226427947,-1.9982455784486037,0.9977684950384352,1.9982467864088596,-0.9982485135061266,</dec>
-    <hex>0x3f800fc5,0xbfffc683,0x3f7f6dc2,0x3fffc68d,0xbf7f8d37,</hex>
+    <dec>1.0003235293787995,-1.9989745272104538,0.9986525691974433,1.9989750176043286,-0.9989756081823677,</dec>
+    <hex>0x3f800a9a,0xbfffde66,0x3f7fa7b2,0x3fffde6a,0xbf7fbcde,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000481226427947,-1.9982455784486037,0.9977684950384352,1.9982467864088596,-0.9982485135061266,</dec>
-    <hex>0x3f800fc5,0xbfffc683,0x3f7f6dc2,0x3fffc68d,0xbf7f8d37,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>36.0</freq>
+    <freq>21.0</freq>
     <q>3.0</q>
-    <boost>-2.3</boost>
+    <boost>-1.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998957571092543,-1.9990982716930137,0.9992080637460302,1.9990982716930137,-0.9991038208552844,</dec>
-    <hex>0x3f7ff92b,0xbfffe274,0x3f7fcc1a,0x3fffe274,0xbf7fc545,</hex>
+    <dec>0.9999577538635398,-1.9994958873641757,0.9995400221299292,1.9994958873641757,-0.999497775993469,</dec>
+    <hex>0x3f7ffd3b,0xbfffef7b,0x3f7fe1db,0x3fffef7b,0xbf7fdf16,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -892,31 +892,31 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>25.0</freq>
+    <freq>15.0</freq>
     <q>0.75</q>
-    <boost>7.6</boost>
+    <boost>8.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000481226427947,-1.9982455784486037,0.9977684950384352,1.9982467864088596,-0.9982485135061266,</dec>
-    <hex>0x3f800fc5,0xbfffc683,0x3f7f6dc2,0x3fffc68d,0xbf7f8d37,</hex>
+    <dec>1.0003235293787995,-1.9989745272104538,0.9986525691974433,1.9989750176043286,-0.9989756081823677,</dec>
+    <hex>0x3f800a9a,0xbfffde66,0x3f7fa7b2,0x3fffde6a,0xbf7fbcde,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.6</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000481226427947,-1.9982455784486037,0.9977684950384352,1.9982467864088596,-0.9982485135061266,</dec>
-    <hex>0x3f800fc5,0xbfffc683,0x3f7f6dc2,0x3fffc68d,0xbf7f8d37,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>36.0</freq>
+    <freq>21.0</freq>
     <q>3.0</q>
-    <boost>-2.3</boost>
+    <boost>-1.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998957571092543,-1.9990982716930137,0.9992080637460302,1.9990982716930137,-0.9991038208552844,</dec>
-    <hex>0x3f7ff92b,0xbfffe274,0x3f7fcc1a,0x3fffe274,0xbf7fc545,</hex>
+    <dec>0.9999577538635398,-1.9994958873641757,0.9995400221299292,1.9994958873641757,-0.999497775993469,</dec>
+    <hex>0x3f7ffd3b,0xbfffef7b,0x3f7fe1db,0x3fffef7b,0xbf7fdf16,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Sugar</beq_title><beq_alt_title /><beq_sortTitle>sugar</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Sugar%202024%20S01E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Sugar%202024%20S01E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-06</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>An enigmatic private detective struggles with personal demons as he investigates the disappearance of a Hollywood producer's beloved granddaughter.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>203744</beq_theMovieDB><beq_poster>/dNrk52Rt13MxwahLneTZJezM6qD.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Channel</beq_title><beq_alt_title /><beq_sortTitle>channel</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Channel%20(2023)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/The%20Channel%20(2023)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>After their bank heist goes wrong, a desperate criminal, his out-of-control brother, and their motley crew of ex-marines must escape New Orleans and the determined FBI agent who pursues them.</beq_overview><beq_rating /><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>1140692</beq_theMovieDB><beq_poster>/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg</beq_poster><beq_runtime>101</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre></beq_genres></beq_metadata></setting>
