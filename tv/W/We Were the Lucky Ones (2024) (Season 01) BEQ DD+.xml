@@ -822,22 +822,13 @@
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.5</boost>
+    <boost>8.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
-    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
+    <dec>1.0005457787504417,-1.9982951548689223,0.9977537647346448,1.9982965339142482,-0.9982981644397602,</dec>
+    <hex>0x3f8011e2,0xbfffc823,0x3f7f6cca,0x3fffc82e,0xbf7f9078,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
-    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
     <freq>38.0</freq>
     <q>3.0</q>
     <boost>-2.0</boost>
@@ -845,6 +836,15 @@
     <bypass>0</bypass>
     <dec>0.9999043878093619,-1.9990640620995281,0.9991658570488957,1.9990640620995281,-0.9990702448582576,</dec>
     <hex>0x3f7ff9bc,0xbfffe155,0x3f7fc955,0x3fffe155,0xbf7fc311,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -912,22 +912,13 @@
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.5</boost>
+    <boost>8.6</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
-    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
+    <dec>1.0005457787504417,-1.9982951548689223,0.9977537647346448,1.9982965339142482,-0.9982981644397602,</dec>
+    <hex>0x3f8011e2,0xbfffc823,0x3f7f6cca,0x3fffc82e,0xbf7f9078,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.5</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
-    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
     <freq>38.0</freq>
     <q>3.0</q>
     <boost>-2.0</boost>
@@ -935,6 +926,15 @@
     <bypass>0</bypass>
     <dec>0.9999043878093619,-1.9990640620995281,0.9991658570488957,1.9990640620995281,-0.9990702448582576,</dec>
     <hex>0x3f7ff9bc,0xbfffe155,0x3f7fc955,0x3fffe155,0xbf7fc311,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>We Were the Lucky Ones</beq_title><beq_alt_title /><beq_sortTitle>we were the lucky ones</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/We%20Were%20The%20Lucky%20Ones%20(2024)%20DD%2B%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/We%20Were%20The%20Lucky%20Ones%20(2024)%20DD%2B%205.1.jpg</beq_pvaURL><beq_edition /><beq_season>01 E01-04</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The true story of one Jewish family separated at the start of World War II, determined to survive—and to reunite.</beq_overview><beq_rating /><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>200908</beq_theMovieDB><beq_poster>/fY6wBcINCGYIr7Mt1VbypmHENCy.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>We Were the Lucky Ones</beq_title><beq_alt_title /><beq_sortTitle>we were the lucky ones</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/We%20Were%20The%20Lucky%20Ones%20(2024)%20S01%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/We%20Were%20The%20Lucky%20Ones%20(2024)%20S01%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The true story of one Jewish family separated at the start of World War II, determined to survive—and to reunite.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>200908</beq_theMovieDB><beq_poster>/hx9hyY759yN78NM4oD2JOuyBWIf.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
