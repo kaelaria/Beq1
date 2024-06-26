@@ -802,40 +802,40 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>6.4</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001616834317688,-1.9992739549383727,0.9991128904624677,1.9992741162908534,-0.9992744125417554,</dec>
-    <hex>0x3f80054c,0xbfffe835,0x3f7fc5dd,0x3fffe837,0xbf7fd073,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>6.4</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001616834317688,-1.9992739549383727,0.9991128904624677,1.9992741162908534,-0.9992744125417554,</dec>
-    <hex>0x3f80054c,0xbfffe835,0x3f7fc5dd,0x3fffe837,0xbf7fd073,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>14.0</freq>
-    <q>3.3</q>
-    <boost>-2.2</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999647472593622,-1.9996840562949882,0.9997201485050495,1.9996840562949882,-0.9996848957644119,</dec>
-    <hex>0x3f7ffdb1,0xbffff5a6,0x3f7feda9,0x3ffff5a6,0xbf7feb59,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>2.5</q>
+    <boost>-9.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9996740641013293,-1.998987373444646,0.9993155742661393,1.998987373444646,-0.9989896383674687,</dec>
+    <hex>0x3f7feaa4,0xbfffded1,0x3f7fd325,0x3fffded1,0xbf7fbdc9,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
     <freq>1000</freq>
@@ -892,40 +892,40 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>6.4</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001616834317688,-1.9992739549383727,0.9991128904624677,1.9992741162908534,-0.9992744125417554,</dec>
-    <hex>0x3f80054c,0xbfffe835,0x3f7fc5dd,0x3fffe837,0xbf7fd073,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>10.0</freq>
+    <freq>20.0</freq>
     <q>0.75</q>
-    <boost>6.4</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0001616834317688,-1.9992739549383727,0.9991128904624677,1.9992741162908534,-0.9992744125417554,</dec>
-    <hex>0x3f80054c,0xbfffe835,0x3f7fc5dd,0x3fffe837,0xbf7fd073,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>14.0</freq>
-    <q>3.3</q>
-    <boost>-2.2</boost>
-    <type>PK</type>
+    <freq>20.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999647472593622,-1.9996840562949882,0.9997201485050495,1.9996840562949882,-0.9996848957644119,</dec>
-    <hex>0x3f7ffdb1,0xbffff5a6,0x3f7feda9,0x3ffff5a6,0xbf7feb59,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>23.0</freq>
+    <q>2.5</q>
+    <boost>-9.0</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9996740641013293,-1.998987373444646,0.9993155742661393,1.998987373444646,-0.9989896383674687,</dec>
+    <hex>0x3f7feaa4,0xbfffded1,0x3f7fd325,0x3fffded1,0xbf7fbdc9,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Dark Matter</beq_title><beq_alt_title /><beq_sortTitle>dark matter</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Dark%20Matter%20(2024)%20S01E01-06%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Dark%20Matter%20(2024)%20S01E01-06%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-06</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>196322</beq_theMovieDB><beq_poster>/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="9648">Mystery</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Dark Waters</beq_title><beq_alt_title /><beq_sortTitle>dark waters</beq_sortTitle><beq_year>2019</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Dark%20Waters%20(2019)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Dark%20Waters%20(2019)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>552178</beq_theMovieDB><beq_poster>/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg</beq_poster><beq_runtime>127</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="53">Thriller</genre></beq_genres></beq_metadata></setting>
