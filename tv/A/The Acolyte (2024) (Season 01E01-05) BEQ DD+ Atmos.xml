@@ -804,11 +804,11 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
-    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
+    <dec>1.000177038576006,-1.999286367531921,0.9991099696672101,1.999286544789957,-0.9992868309851797,</dec>
+    <hex>0x3f8005cd,0xbfffe89e,0x3f7fc5ac,0x3fffe89f,0xbf7fd143,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>22.0</freq>
@@ -829,22 +829,22 @@
     <hex>0x3f800b4a,0xbfffcb57,0x3f7f804c,0x3fffcb5e,0xbf7f96d4,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>22.0</freq>
-    <q>0.75</q>
-    <boost>6.2</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003445224412133,-1.9983929934014133,0.9980514311121631,1.998393748567528,-0.998395198387262,</dec>
-    <hex>0x3f800b4a,0xbfffcb57,0x3f7f804c,0x3fffcb5e,0xbf7f96d4,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>32.0</freq>
+    <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-2.7</boost>
+    <boost>-2.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998911003284515,-1.9991804231492756,0.9992937075221497,1.9991804231492756,-0.9991848078506013,</dec>
-    <hex>0x3f7ff8dd,0xbfffe525,0x3f7fd1b6,0x3fffe525,0xbf7fca93,</hex>
+    <dec>0.9999093239025096,-1.9992449640731305,0.9993394940355806,1.9992449640731305,-0.9992488179380903,</dec>
+    <hex>0x3f7ffa0f,0xbfffe742,0x3f7fd4b7,0x3fffe742,0xbf7fcec5,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -894,11 +894,11 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
-    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
+    <dec>1.000177038576006,-1.999286367531921,0.9991099696672101,1.999286544789957,-0.9992868309851797,</dec>
+    <hex>0x3f8005cd,0xbfffe89e,0x3f7fc5ac,0x3fffe89f,0xbf7fd143,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>22.0</freq>
@@ -919,22 +919,22 @@
     <hex>0x3f800b4a,0xbfffcb57,0x3f7f804c,0x3fffcb5e,0xbf7f96d4,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>22.0</freq>
-    <q>0.75</q>
-    <boost>6.2</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003445224412133,-1.9983929934014133,0.9980514311121631,1.998393748567528,-0.998395198387262,</dec>
-    <hex>0x3f800b4a,0xbfffcb57,0x3f7f804c,0x3fffcb5e,0xbf7f96d4,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>32.0</freq>
+    <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-2.7</boost>
+    <boost>-2.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9998911003284515,-1.9991804231492756,0.9992937075221497,1.9991804231492756,-0.9991848078506013,</dec>
-    <hex>0x3f7ff8dd,0xbfffe525,0x3f7fd1b6,0x3fffe525,0xbf7fca93,</hex>
+    <dec>0.9999093239025096,-1.9992449640731305,0.9993394940355806,1.9992449640731305,-0.9992488179380903,</dec>
+    <hex>0x3f7ffa0f,0xbfffe742,0x3f7fd4b7,0x3fffe742,0xbf7fcec5,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Acolyte</beq_title><beq_alt_title /><beq_sortTitle>acolyte</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The.Acolyte%20(2024)%20S01E01-02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The.Acolyte%20(2024)%20S01E01-02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>An investigation into a shocking crime spree pits a respected Jedi Master against a dangerous warrior from his past. As more clues emerge, they travel down a dark path where sinister forces reveal all is not what it seems.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>114479</beq_theMovieDB><beq_poster>/mztdt3y6GBsJR69zHtszFezTCLT.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="9648">Mystery</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Acolyte</beq_title><beq_alt_title /><beq_sortTitle>acolyte</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Acolyte%20(2024)%20S01E01-05%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/The%20Acolyte%20(2024)%20S01E01-05%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-05</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A hundred years before the rise of the Empire, the Jedi Order and the Galactic Republic have prospered for centuries without war. During this time, an investigation into a shocking crime spree pits a Jedi Master against a dangerous warrior from his past.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>114479</beq_theMovieDB><beq_poster>/yuCKJsbzzadXh6tMUsIwZ2zaKXy.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="9648">Mystery</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
