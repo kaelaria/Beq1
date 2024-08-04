@@ -804,29 +804,29 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
-    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
+    <dec>1.0001514738774269,-1.9992655597124975,0.9991146906992364,1.9992657105694813,-0.9992660137196796,</dec>
+    <hex>0x3f8004f7,0xbfffe7ef,0x3f7fc5fb,0x3fffe7f0,0xbf7fcfe6,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.000378758967842,-1.9981632082754461,0.9977882276286283,1.9981641506128272,-0.9981660442590887,</dec>
+    <hex>0x3f800c69,0xbfffc3d0,0x3f7f6f0d,0x3fffc3d8,0xbf7f87cf,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.000378758967842,-1.9981632082754461,0.9977882276286283,1.9981641506128272,-0.9981660442590887,</dec>
+    <hex>0x3f800c69,0xbfffc3d0,0x3f7f6f0d,0x3fffc3d8,0xbf7f87cf,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>45.0</freq>
@@ -894,29 +894,29 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002027506418185,-1.9993065836021406,0.9991045116430174,1.9993067878492643,-0.9993070580377119,</dec>
-    <hex>0x3f8006a5,0xbfffe947,0x3f7fc550,0x3fffe949,0xbf7fd296,</hex>
+    <dec>1.0001514738774269,-1.9992655597124975,0.9991146906992364,1.9992657105694813,-0.9992660137196796,</dec>
+    <hex>0x3f8004f7,0xbfffe7ef,0x3f7fc5fb,0x3fffe7f0,0xbf7fcfe6,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.000378758967842,-1.9981632082754461,0.9977882276286283,1.9981641506128272,-0.9981660442590887,</dec>
+    <hex>0x3f800c69,0xbfffc3d0,0x3f7f6f0d,0x3fffc3d8,0xbf7f87cf,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>25.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.000378758967842,-1.9981632082754461,0.9977882276286283,1.9981641506128272,-0.9981660442590887,</dec>
+    <hex>0x3f800c69,0xbfffc3d0,0x3f7f6f0d,0x3fffc3d8,0xbf7f87cf,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>45.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Hotel Cocaine</beq_title><beq_alt_title /><beq_sortTitle>hotel cocaine</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Hotel%20Cocaine%20(2024)%20S01E01-02%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Hotel%20Cocaine%20(2024)%20S01E01-02%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>01E01-02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The story of Roman Compte, a Cuban expatriate who fought against Fidel Castro in the Bay of Pigs invasion and re-made his life in Miami, and is now the general manager of the Mutiny Hotel, the glamorous epicenter of the Miami cocaine scene of late '70s and early '80s.</beq_overview><beq_rating /><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>211169</beq_theMovieDB><beq_poster>/oOddX9xEcse5SbywRDy1gtEfLAB.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Hotel Cocaine</beq_title><beq_alt_title /><beq_sortTitle>hotel cocaine</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Hotel%20cocaine%20(2024)%20S01%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Hotel%20cocaine%20(2024)%20S01%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The story of Roman Compte, a Cuban exile and general manager of The Mutiny Hotel, the glamorous epicenter of the Miami cocaine scene of late '70s and early '80s. The Mutiny Hotel was Casablanca on cocaine.</beq_overview><beq_rating /><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>211169</beq_theMovieDB><beq_poster>/oOddX9xEcse5SbywRDy1gtEfLAB.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
