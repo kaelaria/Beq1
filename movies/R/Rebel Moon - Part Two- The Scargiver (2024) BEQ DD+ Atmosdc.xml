@@ -804,29 +804,29 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>13.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000256885948013,-1.9990932736821203,0.9988375214577746,1.9990936096156227,-0.9990940714722853,</dec>
-    <hex>0x3f80086b,0xbfffe24a,0x3f7fb3d1,0x3fffe24d,0xbf7fc4a1,</hex>
+    <dec>1.0001737577412926,-1.9990257574998425,0.9988529814896038,1.9990259817025093,-0.9990265150282295,</dec>
+    <hex>0x3f8005b2,0xbfffe013,0x3f7fb4d4,0x3fffe015,0xbf7fc034,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>21.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
+    <freq>13.0</freq>
+    <q>0.75</q>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000283580564912,-1.9982991614494132,0.9980180979051644,1.9982997122473771,-0.9983011276721122,</dec>
-    <hex>0x3f80094b,0xbfffc844,0x3f7f7e1d,0x3fffc849,0xbf7f90aa,</hex>
+    <dec>1.0001737577412926,-1.9990257574998425,0.9988529814896038,1.9990259817025093,-0.9990265150282295,</dec>
+    <hex>0x3f8005b2,0xbfffe013,0x3f7fb4d4,0x3fffe015,0xbf7fc034,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>31.0</freq>
-    <q>3.0</q>
-    <boost>-1.0</boost>
+    <freq>16.0</freq>
+    <q>2.5</q>
+    <boost>-2.9</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999610606438817,-1.9992797525893253,0.9993228070888598,1.9992797525893253,-0.9992838677327416,</dec>
-    <hex>0x3f7ffd73,0xbfffe866,0x3f7fd39f,0x3fffe866,0xbf7fd111,</hex>
+    <dec>0.9999297655728245,-1.999504045120141,0.9995753758985909,1.999504045120141,-0.9995051414714153,</dec>
+    <hex>0x3f7ffb66,0xbfffefc0,0x3f7fe42c,0x3fffefc0,0xbf7fdf92,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>1000</freq>
@@ -894,29 +894,29 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>13.0</freq>
     <q>0.75</q>
-    <boost>7.8</boost>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000256885948013,-1.9990932736821203,0.9988375214577746,1.9990936096156227,-0.9990940714722853,</dec>
-    <hex>0x3f80086b,0xbfffe24a,0x3f7fb3d1,0x3fffe24d,0xbf7fc4a1,</hex>
+    <dec>1.0001737577412926,-1.9990257574998425,0.9988529814896038,1.9990259817025093,-0.9990265150282295,</dec>
+    <hex>0x3f8005b2,0xbfffe013,0x3f7fb4d4,0x3fffe015,0xbf7fc034,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>21.0</freq>
-    <q>0.7</q>
-    <boost>5.0</boost>
+    <freq>13.0</freq>
+    <q>0.75</q>
+    <boost>5.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000283580564912,-1.9982991614494132,0.9980180979051644,1.9982997122473771,-0.9983011276721122,</dec>
-    <hex>0x3f80094b,0xbfffc844,0x3f7f7e1d,0x3fffc849,0xbf7f90aa,</hex>
+    <dec>1.0001737577412926,-1.9990257574998425,0.9988529814896038,1.9990259817025093,-0.9990265150282295,</dec>
+    <hex>0x3f8005b2,0xbfffe013,0x3f7fb4d4,0x3fffe015,0xbf7fc034,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>31.0</freq>
-    <q>3.0</q>
-    <boost>-1.0</boost>
+    <freq>16.0</freq>
+    <q>2.5</q>
+    <boost>-2.9</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999610606438817,-1.9992797525893253,0.9993228070888598,1.9992797525893253,-0.9992838677327416,</dec>
-    <hex>0x3f7ffd73,0xbfffe866,0x3f7fd39f,0x3fffe866,0xbf7fd111,</hex>
+    <dec>0.9999297655728245,-1.999504045120141,0.9995753758985909,1.999504045120141,-0.9995051414714153,</dec>
+    <hex>0x3f7ffb66,0xbfffefc0,0x3f7fe42c,0x3fffefc0,0xbf7fdf92,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Rebel Moon - Part One: A Child of Fire</beq_title><beq_alt_title /><beq_sortTitle>rebel moon - part one: a child of fire</beq_sortTitle><beq_year>2023</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Rebel%20Moon%20-%20Part%20One%20A%20Child%20Of%20Fire%20(2023)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Rebel%20Moon%20-%20Part%20One%20A%20Child%20Of%20Fire%20(2023)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition>Theatrical</beq_edition><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>848326</beq_theMovieDB><beq_poster>/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg</beq_poster><beq_runtime>134</beq_runtime><beq_collection id="934765">Rebel Moon Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="878">Science Fiction</genre><genre id="14">Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Rebel Moon - Part Two: The Scargiver</beq_title><beq_alt_title /><beq_sortTitle>rebel moon - part two: the scargiver</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Rebel%20Moon%20Part%20Two%20The%20Scaregiver(2024)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/Rebel%20Moon%20Part%20Two%20The%20Scaregiver(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition>Director's Cut</beq_edition><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>934632</beq_theMovieDB><beq_poster>/cxevDYdeFkiixRShbObdwAHBZry.jpg</beq_poster><beq_runtime>123</beq_runtime><beq_collection id="934765">Rebel Moon Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="878">Science Fiction</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
