@@ -804,65 +804,65 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0002547022877692,-1.9993453067601548,0.9990913659816586,1.9993455671096032,-0.9993458079199797,</dec>
+    <hex>0x3f800859,0xbfffea8c,0x3f7fc474,0x3fffea8e,0xbf7fd520,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>15.0</freq>
     <q>2.0</q>
-    <boost>-9.0</boost>
+    <boost>-4.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999734266523452,-1.9991752951203197,0.9994419920283726,1.9991752951203197,-0.9991762585518243,</dec>
-    <hex>0x3f7fee96,0xbfffe4fa,0x3f7fdb6e,0x3fffe4fa,0xbf7fca04,</hex>
+    <dec>0.9998685356662386,-1.9993595506224402,0.9994919784765017,1.9993595506224402,-0.9993605141427403,</dec>
+    <hex>0x3f7ff762,0xbfffeb04,0x3f7fdeb5,0x3fffeb04,0xbf7fd617,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
-  </filter>
-  <filter name="PEQ_1_6" addr="8305">
     <freq>40.0</freq>
     <q>3.0</q>
-    <boost>-0.4</boost>
+    <boost>-0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999799133703119,-1.9991005571326554,0.999127494591511,1.9991005571326554,-0.9991074079618227,</dec>
-    <hex>0x3f7ffeaf,0xbfffe287,0x3f7fc6d2,0x3fffe287,0xbf7fc581,</hex>
+    <dec>0.9999899572994219,-1.9991107700064095,0.9991276635711543,1.9991107700064095,-0.9991176208705761,</dec>
+    <hex>0x3f7fff58,0xbfffe2dd,0x3f7fc6d5,0x3fffe2dd,0xbf7fc62c,</hex>
+  </filter>
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>50.0</freq>
-    <q>1.0</q>
-    <boost>0.2</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000037615881358,-1.996759505682902,0.9967325817038565,1.996759505682902,-0.9967701975852145,</dec>
-    <hex>0x3f80013c,0xbfff95d1,0x3f7f29de,0x3fff95d1,0xbf7f2c55,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -894,65 +894,65 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>10.0</freq>
     <q>0.75</q>
-    <boost>5.0</boost>
+    <boost>10.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000126035352192,-1.9992441429660108,0.9991186786362914,1.99924426792248,-0.999244589032014,</dec>
-    <hex>0x3f800421,0xbfffe73b,0x3f7fc63e,0x3fffe73c,0xbf7fce7e,</hex>
+    <dec>1.0002547022877692,-1.9993453067601548,0.9990913659816586,1.9993455671096032,-0.9993458079199797,</dec>
+    <hex>0x3f800859,0xbfffea8c,0x3f7fc474,0x3fffea8e,0xbf7fd520,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>15.0</freq>
     <q>2.0</q>
-    <boost>-9.0</boost>
+    <boost>-4.6</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999734266523452,-1.9991752951203197,0.9994419920283726,1.9991752951203197,-0.9991762585518243,</dec>
-    <hex>0x3f7fee96,0xbfffe4fa,0x3f7fdb6e,0x3fffe4fa,0xbf7fca04,</hex>
+    <dec>0.9998685356662386,-1.9993595506224402,0.9994919784765017,1.9993595506224402,-0.9993605141427403,</dec>
+    <hex>0x3f7ff762,0xbfffeb04,0x3f7fdeb5,0x3fffeb04,0xbf7fd617,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>20.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>8.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
+    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
+    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0003541280953918,-1.9985723174002294,0.9982207512364719,1.9985730261796337,-0.9985741705524592,</dec>
-    <hex>0x3f800b9b,0xbfffd138,0x3f7f8b65,0x3fffd13e,0xbf7fa28f,</hex>
-  </filter>
-  <filter name="PEQ_2_6" addr="8355">
     <freq>40.0</freq>
     <q>3.0</q>
-    <boost>-0.4</boost>
+    <boost>-0.2</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999799133703119,-1.9991005571326554,0.999127494591511,1.9991005571326554,-0.9991074079618227,</dec>
-    <hex>0x3f7ffeaf,0xbfffe287,0x3f7fc6d2,0x3fffe287,0xbf7fc581,</hex>
+    <dec>0.9999899572994219,-1.9991107700064095,0.9991276635711543,1.9991107700064095,-0.9991176208705761,</dec>
+    <hex>0x3f7fff58,0xbfffe2dd,0x3f7fc6d5,0x3fffe2dd,0xbf7fc62c,</hex>
+  </filter>
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>50.0</freq>
-    <q>1.0</q>
-    <boost>0.2</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.000037615881358,-1.996759505682902,0.9967325817038565,1.996759505682902,-0.9967701975852145,</dec>
-    <hex>0x3f80013c,0xbfff95d1,0x3f7f29de,0x3fff95d1,0xbf7f2c55,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>The Lord of the Rings: The Rings of Power</beq_title><beq_alt_title /><beq_sortTitle>lord of the rings: the rings of power</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20(2022)%20S02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20(2022)%20S02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>84773</beq_theMovieDB><beq_poster>/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Lord of the Rings: The Rings of Power</beq_title><beq_alt_title /><beq_sortTitle>lord of the rings: the rings of power</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20(2022)%20S02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20(2022)%20S02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>84773</beq_theMovieDB><beq_poster>/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="10759">Action &amp; Adventure</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
