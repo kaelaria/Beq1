@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>13.0</freq>
-    <q>3.0</q>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000754525600042,-1.9991994114359322,0.9991244677888477,1.9991994857510142,-0.9991998460337702,</dec>
+    <hex>0x3f800279,0xbfffe5c4,0x3f7fc69f,0x3fffe5c5,0xbf7fcb90,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>17.0</freq>
+    <q>4.0</q>
     <boost>-3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999950785738246,-1.9996622547698208,0.9997121928518756,1.9996622547698208,-0.9996629785901219,</dec>
-    <hex>0x3f7ffcc6,0xbffff4ef,0x3f7fed23,0x3ffff4ef,0xbf7fe9ea,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
-    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
+    <dec>0.9999517320140747,-1.9996682209487437,0.9997177267141715,1.9996682209487437,-0.9996694587282461,</dec>
+    <hex>0x3f7ffcd6,0xbffff521,0x3f7fed80,0x3ffff521,0xbf7fea56,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>20.0</freq>
+    <freq>17.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>-6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
-    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
+    <dec>0.9997425371301817,-1.998237063663938,0.998495402187306,1.9982366279114485,-0.9982383750699771,</dec>
+    <hex>0x3f7fef20,0xbfffc63b,0x3f7f9d65,0x3fffc638,0xbf7f8c8d,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>30.0</freq>
-    <q>3.0</q>
-    <boost>-2.3</boost>
-    <type>PK</type>
+    <freq>25.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999131244118203,-1.9992492741841508,0.9993400036455985,1.9992492741841508,-0.9992531280574187,</dec>
-    <hex>0x3f7ffa4e,0xbfffe766,0x3f7fd4bf,0x3fffe766,0xbf7fcf0e,</hex>
+    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
+    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>25.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
+    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>42.0</freq>
+    <q>3.0</q>
+    <boost>-1.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999261119424215,-1.998999741658564,0.9990811823766075,1.998999741658564,-0.999007294319029,</dec>
+    <hex>0x3f7ffb28,0xbfffdf39,0x3f7fc3c9,0x3fffdf39,0xbf7fbef1,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>13.0</freq>
-    <q>3.0</q>
+    <freq>10.0</freq>
+    <q>0.75</q>
+    <boost>3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0000754525600042,-1.9991994114359322,0.9991244677888477,1.9991994857510142,-0.9991998460337702,</dec>
+    <hex>0x3f800279,0xbfffe5c4,0x3f7fc69f,0x3fffe5c5,0xbf7fcb90,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>17.0</freq>
+    <q>4.0</q>
     <boost>-3.0</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.999950785738246,-1.9996622547698208,0.9997121928518756,1.9996622547698208,-0.9996629785901219,</dec>
-    <hex>0x3f7ffcc6,0xbffff4ef,0x3f7fed23,0x3ffff4ef,0xbf7fe9ea,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>20.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
-    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
+    <dec>0.9999517320140747,-1.9996682209487437,0.9997177267141715,1.9996682209487437,-0.9996694587282461,</dec>
+    <hex>0x3f7ffcd6,0xbffff521,0x3f7fed80,0x3ffff521,0xbf7fea56,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>20.0</freq>
+    <freq>17.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>-6.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000405564975543,-1.998612699125038,0.9982098479400572,1.9986135158305778,-0.9986145962100599,</dec>
-    <hex>0x3f800d4a,0xbfffd28a,0x3f7f8aae,0x3fffd291,0xbf7fa535,</hex>
+    <dec>0.9997425371301817,-1.998237063663938,0.998495402187306,1.9982366279114485,-0.9982383750699771,</dec>
+    <hex>0x3f7fef20,0xbfffc63b,0x3f7f9d65,0x3fffc638,0xbf7f8c8d,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>30.0</freq>
-    <q>3.0</q>
-    <boost>-2.3</boost>
-    <type>PK</type>
+    <freq>25.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999131244118203,-1.9992492741841508,0.9993400036455985,1.9992492741841508,-0.9992531280574187,</dec>
-    <hex>0x3f7ffa4e,0xbfffe766,0x3f7fd4bf,0x3fffe766,0xbf7fcf0e,</hex>
+    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
+    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <freq>25.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0004747942464156,-1.9982405413540658,0.9977698663344062,1.9982417324356838,-0.9982434694992033,</dec>
+    <hex>0x3f800f8f,0xbfffc659,0x3f7f6dd9,0x3fffc663,0xbf7f8ce2,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>42.0</freq>
+    <q>3.0</q>
+    <boost>-1.4</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999261119424215,-1.998999741658564,0.9990811823766075,1.998999741658564,-0.999007294319029,</dec>
+    <hex>0x3f7ffb28,0xbfffdf39,0x3f7fc3c9,0x3fffdf39,0xbf7fbef1,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Furiosa: A Mad Max Saga</beq_title><beq_alt_title /><beq_sortTitle>furiosa: a mad max saga</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Furiosa%20a%20mad%20max%20saga%20(2024)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Furiosa%20a%20mad%20max%20saga%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>786892</beq_theMovieDB><beq_poster>/iADOJ8Zymht2JPMoy3R7xceZprc.jpg</beq_poster><beq_runtime>149</beq_runtime><beq_collection id="8945">Mad Max Collection</beq_collection><beq_audioTypes><audioType>Atmos</audioType><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="878">Science Fiction</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>The Substance</beq_title><beq_alt_title /><beq_sortTitle>substance</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Substance%20(2024)%20DTS-HD%20MA%205.1hm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/The%20Substance%20(2024)%20DTS-HD%20MA%205.1.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>933260</beq_theMovieDB><beq_poster>/lqoMzCcZYEFK729d6qzt349fB4o.jpg</beq_poster><beq_runtime>141</beq_runtime><beq_collection /><beq_audioTypes><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="27">Horror</genre><genre id="878">Science Fiction</genre></beq_genres></beq_metadata></setting>
