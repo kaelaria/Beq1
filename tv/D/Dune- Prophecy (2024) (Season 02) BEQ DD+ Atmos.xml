@@ -804,65 +804,65 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>14.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>3.0</q>
+    <boost>-0.3</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>0.9999887004194916,-1.999330468617028,0.9993456222273198,1.999330468617028,-0.9993343226468111,</dec>
+    <hex>0x3f7fff42,0xbfffea10,0x3f7fd51d,0x3fffea10,0xbf7fd460,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>20.0</freq>
-    <q>5.0</q>
-    <boost>-5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999236167302695,-1.9996492327614521,0.9997273292048768,1.9996492327614521,-0.9996509459351465,</dec>
-    <hex>0x3f7ffaff,0xbffff482,0x3f7fee21,0x3ffff482,0xbf7fe920,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>23.0</freq>
-    <q>4.0</q>
-    <boost>6.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001325641314232,-1.9997313438978772,0.9996010455322213,1.9997313438978772,-0.9997336096636444,</dec>
-    <hex>0x3f800458,0xbffff732,0x3f7fe5db,0x3ffff732,0xbf7fee8b,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
-    <freq>35.0</freq>
-    <q>3.0</q>
-    <boost>-0.5</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999780279746892,-1.999209185388935,0.9992364028618311,1.999209185388935,-0.9992144308365203,</dec>
-    <hex>0x3f7ffe8f,0xbfffe616,0x3f7fcdf5,0x3fffe616,0xbf7fcc84,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_8" addr="8315">
     <freq>1000</freq>
@@ -894,65 +894,65 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>14.0</freq>
     <q>0.75</q>
-    <boost>8.0</boost>
+    <boost>7.3</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>1.0002586453545137,-1.9990093700334788,0.9987520021715137,1.9990097331485503,-0.9990102844109561,</dec>
+    <hex>0x3f80087a,0xbfffdf8a,0x3f7fae36,0x3fffdf8d,0xbf7fbf23,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>14.0</freq>
-    <q>0.75</q>
-    <boost>8.0</boost>
-    <type>SL</type>
+    <freq>30.0</freq>
+    <q>3.0</q>
+    <boost>-0.3</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0002838687381523,-1.9990290859461612,0.9987465472417688,1.9990294862150528,-0.9990300157110296,</dec>
-    <hex>0x3f80094d,0xbfffe02f,0x3f7faddb,0x3fffe033,0xbf7fc06e,</hex>
+    <dec>0.9999887004194916,-1.999330468617028,0.9993456222273198,1.999330468617028,-0.9993343226468111,</dec>
+    <hex>0x3f7fff42,0xbfffea10,0x3f7fd51d,0x3fffea10,0xbf7fd460,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>20.0</freq>
-    <q>5.0</q>
-    <boost>-5.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999236167302695,-1.9996492327614521,0.9997273292048768,1.9996492327614521,-0.9996509459351465,</dec>
-    <hex>0x3f7ffaff,0xbffff482,0x3f7fee21,0x3ffff482,0xbf7fe920,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>23.0</freq>
-    <q>4.0</q>
-    <boost>6.0</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>1.0001325641314232,-1.9997313438978772,0.9996010455322213,1.9997313438978772,-0.9997336096636444,</dec>
-    <hex>0x3f800458,0xbffff732,0x3f7fe5db,0x3ffff732,0xbf7fee8b,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
-    <freq>35.0</freq>
-    <q>3.0</q>
-    <boost>-0.5</boost>
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
     <type>PK</type>
-    <bypass>0</bypass>
-    <dec>0.9999780279746892,-1.999209185388935,0.9992364028618311,1.999209185388935,-0.9992144308365203,</dec>
-    <hex>0x3f7ffe8f,0xbfffe616,0x3f7fcdf5,0x3fffe616,0xbf7fcc84,</hex>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_8" addr="8365">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Dune: Prophecy</beq_title><beq_alt_title /><beq_sortTitle>dune: prophecy</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Dune%20prophecy%20(2024)%20s01e01%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Dune%20prophecy%20(2024)%20s01e01%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>01E01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Ten thousand years before the ascension of Paul Atreides, sisters Valya and Tula Harkonnen establish the fabled sect and female order that would become known as the Bene Gesserit to control the future of humankind.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>90228</beq_theMovieDB><beq_poster>/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Dune: Prophecy</beq_title><beq_alt_title /><beq_sortTitle>dune: prophecy</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Dune%20prophecy%20(2024)%20S01%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Dune%20prophecy%20(2024)%20S01%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Ten thousand years before the ascension of Paul Atreides, sisters Valya and Tula Harkonnen establish the fabled sect and female order that would become known as the Bene Gesserit to control the future of humankind.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>90228</beq_theMovieDB><beq_poster>/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre><genre id="10759">Action &amp; Adventure</genre></beq_genres></beq_metadata></setting>
