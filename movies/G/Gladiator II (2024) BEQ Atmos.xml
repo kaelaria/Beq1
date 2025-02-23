@@ -802,58 +802,58 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>5.0</q>
+    <boost>-5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>0.9999465289037569,-1.999754809826155,0.9998091204215241,1.999754809826155,-0.9997556493252809,</dec>
+    <hex>0x3f7ffc7f,0xbffff7f7,0x3f7ff37e,0x3ffff7f7,0xbf7feffc,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>5.0</q>
+    <boost>-6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>0.9999308364680964,-1.9997217237078677,0.999791850934608,1.9997217237078677,-0.9997226874027045,</dec>
+    <hex>0x3f7ffb78,0xbffff6e2,0x3f7ff25c,0x3ffff6e2,0xbf7fedd3,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
-    <freq>25.0</freq>
+    <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>7.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>29.0</freq>
-    <q>4.0</q>
-    <boost>-6.4</boost>
-    <type>PK</type>
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998212634233226,-1.9993107565687989,0.9994930944863095,1.9993107565687989,-0.999314357909632,</dec>
-    <hex>0x3f7ff449,0xbfffe96a,0x3f7fdec8,0x3fffe96a,0xbf7fd311,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_1_5" addr="8300">
-    <freq>38.0</freq>
-    <q>3.0</q>
-    <boost>-1.7</boost>
-    <type>PK</type>
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999187787597098,-1.9990799732326858,0.9991673772809158,1.9990799732326858,-0.9990861560406257,</dec>
-    <hex>0x3f7ffaad,0xbfffe1da,0x3f7fc96f,0x3fffe1da,0xbf7fc41c,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>30.0</freq>
+    <q>2.7</q>
+    <boost>-0.9</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999623216359464,-1.9992305503175196,0.9992720825187481,1.9992305503175196,-0.9992344041546946,</dec>
+    <hex>0x3f7ffd88,0xbfffe6c9,0x3f7fd04c,0x3fffe6c9,0xbf7fcdd3,</hex>
   </filter>
   <filter name="PEQ_1_7" addr="8310">
     <freq>1000</freq>
@@ -892,58 +892,58 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>14.0</freq>
+    <q>5.0</q>
+    <boost>-5.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>0.9999465289037569,-1.999754809826155,0.9998091204215241,1.999754809826155,-0.9997556493252809,</dec>
+    <hex>0x3f7ffc7f,0xbffff7f7,0x3f7ff37e,0x3ffff7f7,0xbf7feffc,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
-    <freq>25.0</freq>
-    <q>0.75</q>
-    <boost>7.0</boost>
-    <type>SL</type>
+    <freq>15.0</freq>
+    <q>5.0</q>
+    <boost>-6.0</boost>
+    <type>PK</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>0.9999308364680964,-1.9997217237078677,0.999791850934608,1.9997217237078677,-0.9997226874027045,</dec>
+    <hex>0x3f7ffb78,0xbffff6e2,0x3f7ff25c,0x3ffff6e2,0xbf7fedd3,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
-    <freq>25.0</freq>
+    <freq>17.0</freq>
     <q>0.75</q>
-    <boost>7.0</boost>
+    <boost>7.5</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0004426919299572,-1.9982151358979345,0.9977764462728287,1.9982162431684063,-0.9982180309323144,</dec>
-    <hex>0x3f800e82,0xbfffc583,0x3f7f6e47,0x3fffc58d,0xbf7f8b38,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>29.0</freq>
-    <q>4.0</q>
-    <boost>-6.4</boost>
-    <type>PK</type>
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9998212634233226,-1.9993107565687989,0.9994930944863095,1.9993107565687989,-0.999314357909632,</dec>
-    <hex>0x3f7ff449,0xbfffe96a,0x3f7fdec8,0x3fffe96a,0xbf7fd311,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_2_5" addr="8350">
-    <freq>38.0</freq>
-    <q>3.0</q>
-    <boost>-1.7</boost>
-    <type>PK</type>
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>7.5</boost>
+    <type>SL</type>
     <bypass>0</bypass>
-    <dec>0.9999187787597098,-1.9990799732326858,0.9991673772809158,1.9990799732326858,-0.9990861560406257,</dec>
-    <hex>0x3f7ffaad,0xbfffe1da,0x3f7fc96f,0x3fffe1da,0xbf7fc41c,</hex>
+    <dec>1.0003228212617923,-1.9988038689829022,0.9984829529870148,1.9988044198938695,-0.9988052233378397,</dec>
+    <hex>0x3f800a94,0xbfffd8ce,0x3f7f9c94,0x3fffd8d3,0xbf7fb1b3,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
+    <freq>30.0</freq>
+    <q>2.7</q>
+    <boost>-0.9</boost>
     <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
+    <bypass>0</bypass>
+    <dec>0.9999623216359464,-1.9992305503175196,0.9992720825187481,1.9992305503175196,-0.9992344041546946,</dec>
+    <hex>0x3f7ffd88,0xbfffe6c9,0x3f7fd04c,0x3fffe6c9,0xbf7fcdd3,</hex>
   </filter>
   <filter name="PEQ_2_7" addr="8360">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Horizon: An American Saga - Chapter 1</beq_title><beq_alt_title /><beq_sortTitle>horizon: an american saga - chapter 1</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Horizon%20An%20American%20Saga%20Chapter%201%20(2024)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/main/beq3/Horizon%20An%20American%20Saga%20Chapter%201%20(2024)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Explore the lure of the Old West and how it was won—and lost—through the blood, sweat and tears of many. Spanning 15 years before, during, and following the Civil War, from 1859 to 1874, embark on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>932086</beq_theMovieDB><beq_poster>/tMI9SGttUJP96GbIIJOAaaCMkFe.jpg</beq_poster><beq_runtime>181</beq_runtime><beq_collection id="1126640">Horizon: An American Saga Collection</beq_collection><beq_audioTypes><audioType>Atmos</audioType><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="37">Western</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Gladiator II</beq_title><beq_alt_title /><beq_sortTitle>gladiator ii</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gladiator%20II%20(2024)%20TrueHD%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Gladiator%20II%20(2024)%20TrueHD%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.</beq_overview><beq_rating>R</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>558449</beq_theMovieDB><beq_poster>/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg</beq_poster><beq_runtime>148</beq_runtime><beq_collection id="1069584">Gladiator Collection</beq_collection><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="12">Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
