@@ -804,29 +804,29 @@
   <filter name="PEQ_1_1" addr="8280">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>21.0</freq>
@@ -894,29 +894,29 @@
   <filter name="PEQ_2_1" addr="8330">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
     <freq>15.0</freq>
     <q>0.65</q>
-    <boost>8.4</boost>
+    <boost>7.9</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.000368758471259,-1.9988136198393711,0.9984464235886125,1.998814103979787,-0.9988146979194562,</dec>
-    <hex>0x3f800c15,0xbfffd920,0x3f7f9a2f,0x3fffd924,0xbf7fb252,</hex>
+    <dec>1.0003464162213536,-1.99879646247344,0.998451564136145,1.9987969157765857,-0.9987975270543524,</dec>
+    <hex>0x3f800b5a,0xbfffd890,0x3f7f9a86,0x3fffd894,0xbf7fb132,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>21.0</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Red One</beq_title><beq_alt_title /><beq_sortTitle>red one</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>845781</beq_theMovieDB><beq_poster>/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="35">Comedy</genre><genre id="28">Action</genre><genre id="14">Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Red One</beq_title><beq_alt_title /><beq_sortTitle>red one</beq_sortTitle><beq_year>2024</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq3/Red%20One%20(2024)%204K%20HDR%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>845781</beq_theMovieDB><beq_poster>/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg</beq_poster><beq_runtime>124</beq_runtime><beq_collection /><beq_audioTypes><audioType>Atmos</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="14">Fantasy</genre><genre id="35">Comedy</genre></beq_genres></beq_metadata></setting>
