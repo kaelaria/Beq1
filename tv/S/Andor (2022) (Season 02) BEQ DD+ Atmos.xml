@@ -830,6 +830,15 @@
   </filter>
   <filter name="PEQ_1_4" addr="8295">
     <freq>14.0</freq>
+    <q>6.0</q>
+    <boost>-2.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>0.9999823805303018,-1.999827824655851,0.9998462836553269,1.999827824655851,-0.9998286641856284,</dec>
+    <hex>0x3f7ffed8,0xbffffa5c,0x3f7ff5ed,0x3ffffa5c,0xbf7ff4c5,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>14.0</freq>
     <q>2.0</q>
     <boost>6.0</boost>
     <type>PK</type>
@@ -837,7 +846,16 @@
     <dec>1.0001613777864546,-1.9996748685683303,0.9995143302474422,1.9996748685683303,-0.9996757080338969,</dec>
     <hex>0x3f80054a,0xbffff559,0x3f7fe02c,0x3ffff559,0xbf7feabf,</hex>
   </filter>
-  <filter name="PEQ_1_5" addr="8300">
+  <filter name="PEQ_1_6" addr="8305">
+    <freq>15.0</freq>
+    <q>0.75</q>
+    <boost>-3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>0.9998868287498789,-1.9985729920984754,0.9986869737309307,1.998572824941906,-0.9985739696373787,</dec>
+    <hex>0x3f7ff895,0xbfffd13d,0x3f7fa9f3,0x3fffd13c,0xbf7fa28b,</hex>
+  </filter>
+  <filter name="PEQ_1_7" addr="8310">
     <freq>28.0</freq>
     <q>0.75</q>
     <boost>8.7</boost>
@@ -846,7 +864,7 @@
     <dec>1.00061856002698,-1.9980958264318467,0.9974828027160783,1.9980975778928933,-0.9980996112820116,</dec>
     <hex>0x3f801445,0xbfffc19b,0x3f7f5b08,0x3fffc1a9,0xbf7f8375,</hex>
   </filter>
-  <filter name="PEQ_1_6" addr="8305">
+  <filter name="PEQ_1_8" addr="8315">
     <freq>41.0</freq>
     <q>3.0</q>
     <boost>-1.6</boost>
@@ -854,24 +872,6 @@
     <bypass>0</bypass>
     <dec>0.9999175392416912,-1.9990125053893435,0.9991021634840613,1.9990125053893435,-0.9990197027257525,</dec>
     <hex>0x3f7ffa99,0xbfffdfa4,0x3f7fc529,0x3fffdfa4,0xbf7fbfc1,</hex>
-  </filter>
-  <filter name="PEQ_1_7" addr="8310">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
-  <filter name="PEQ_1_8" addr="8315">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_9" addr="8320">
     <freq>1000</freq>
@@ -920,6 +920,15 @@
   </filter>
   <filter name="PEQ_2_4" addr="8345">
     <freq>14.0</freq>
+    <q>6.0</q>
+    <boost>-2.0</boost>
+    <type>PK</type>
+    <bypass>0</bypass>
+    <dec>0.9999823805303018,-1.999827824655851,0.9998462836553269,1.999827824655851,-0.9998286641856284,</dec>
+    <hex>0x3f7ffed8,0xbffffa5c,0x3f7ff5ed,0x3ffffa5c,0xbf7ff4c5,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>14.0</freq>
     <q>2.0</q>
     <boost>6.0</boost>
     <type>PK</type>
@@ -927,7 +936,16 @@
     <dec>1.0001613777864546,-1.9996748685683303,0.9995143302474422,1.9996748685683303,-0.9996757080338969,</dec>
     <hex>0x3f80054a,0xbffff559,0x3f7fe02c,0x3ffff559,0xbf7feabf,</hex>
   </filter>
-  <filter name="PEQ_2_5" addr="8350">
+  <filter name="PEQ_2_6" addr="8355">
+    <freq>15.0</freq>
+    <q>0.75</q>
+    <boost>-3.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>0.9998868287498789,-1.9985729920984754,0.9986869737309307,1.998572824941906,-0.9985739696373787,</dec>
+    <hex>0x3f7ff895,0xbfffd13d,0x3f7fa9f3,0x3fffd13c,0xbf7fa28b,</hex>
+  </filter>
+  <filter name="PEQ_2_7" addr="8360">
     <freq>28.0</freq>
     <q>0.75</q>
     <boost>8.7</boost>
@@ -936,7 +954,7 @@
     <dec>1.00061856002698,-1.9980958264318467,0.9974828027160783,1.9980975778928933,-0.9980996112820116,</dec>
     <hex>0x3f801445,0xbfffc19b,0x3f7f5b08,0x3fffc1a9,0xbf7f8375,</hex>
   </filter>
-  <filter name="PEQ_2_6" addr="8355">
+  <filter name="PEQ_2_8" addr="8365">
     <freq>41.0</freq>
     <q>3.0</q>
     <boost>-1.6</boost>
@@ -944,24 +962,6 @@
     <bypass>0</bypass>
     <dec>0.9999175392416912,-1.9990125053893435,0.9991021634840613,1.9990125053893435,-0.9990197027257525,</dec>
     <hex>0x3f7ffa99,0xbfffdfa4,0x3f7fc529,0x3fffdfa4,0xbf7fbfc1,</hex>
-  </filter>
-  <filter name="PEQ_2_7" addr="8360">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
-  </filter>
-  <filter name="PEQ_2_8" addr="8365">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_9" addr="8370">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Andor</beq_title><beq_alt_title /><beq_sortTitle>andor</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Andor%20(2022)%20S02E01-09%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Andor%20(2022)%20S02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02E01-09</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>83867</beq_theMovieDB><beq_poster>/khZqmwHQicTYoS7Flreb9EddFZC.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Andor</beq_title><beq_alt_title /><beq_sortTitle>andor</beq_sortTitle><beq_year>2022</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Andor%20(2022)%20S02%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Andor%20(2022)%20S02%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season>02</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.</beq_overview><beq_rating>TV-14</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>83867</beq_theMovieDB><beq_poster>/khZqmwHQicTYoS7Flreb9EddFZC.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="10759">Action &amp; Adventure</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
