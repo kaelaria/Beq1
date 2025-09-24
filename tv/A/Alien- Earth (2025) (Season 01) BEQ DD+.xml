@@ -802,13 +802,13 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>17.0</freq>
+    <freq>15.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003887197333305,-1.998854272369134,0.9984676297796136,1.9988549424418216,-0.9988556794402569,</dec>
-    <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
+    <dec>1.0000754025480358,-1.9987640208402433,0.998689699057784,1.9987641319817255,-0.9987649904643381,</dec>
+    <hex>0x3f800279,0xbfffd780,0x3f7faa21,0x3fffd781,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_1_2" addr="8285">
     <freq>17.0</freq>
@@ -820,6 +820,15 @@
     <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
   </filter>
   <filter name="PEQ_1_3" addr="8290">
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>9.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003887197333305,-1.998854272369134,0.9984676297796136,1.9988549424418216,-0.9988556794402569,</dec>
+    <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
+  </filter>
+  <filter name="PEQ_1_4" addr="8295">
     <freq>18.0</freq>
     <q>8.0</q>
     <boost>-3.5</boost>
@@ -828,7 +837,7 @@
     <dec>0.9999701317408799,-1.9998184963588814,0.9998497524059675,1.9998184963588814,-0.9998198841468473,</dec>
     <hex>0x3f7ffe0b,0xbffffa0d,0x3f7ff627,0x3ffffa0d,0xbf7ff432,</hex>
   </filter>
-  <filter name="PEQ_1_4" addr="8295">
+  <filter name="PEQ_1_5" addr="8300">
     <freq>30.0</freq>
     <q>3.0</q>
     <boost>-1.2</boost>
@@ -836,15 +845,6 @@
     <bypass>0</bypass>
     <dec>0.9999547687726728,-1.999295084573496,0.9993441697623984,1.999295084573496,-0.999298938535071,</dec>
     <hex>0x3f7ffd09,0xbfffe8e7,0x3f7fd505,0x3fffe8e7,0xbf7fd20e,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,13 +892,13 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>17.0</freq>
+    <freq>15.0</freq>
     <q>0.75</q>
-    <boost>9.0</boost>
+    <boost>2.0</boost>
     <type>SL</type>
     <bypass>0</bypass>
-    <dec>1.0003887197333305,-1.998854272369134,0.9984676297796136,1.9988549424418216,-0.9988556794402569,</dec>
-    <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
+    <dec>1.0000754025480358,-1.9987640208402433,0.998689699057784,1.9987641319817255,-0.9987649904643381,</dec>
+    <hex>0x3f800279,0xbfffd780,0x3f7faa21,0x3fffd781,0xbf7faf10,</hex>
   </filter>
   <filter name="PEQ_2_2" addr="8335">
     <freq>17.0</freq>
@@ -910,6 +910,15 @@
     <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
   </filter>
   <filter name="PEQ_2_3" addr="8340">
+    <freq>17.0</freq>
+    <q>0.75</q>
+    <boost>9.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003887197333305,-1.998854272369134,0.9984676297796136,1.9988549424418216,-0.9988556794402569,</dec>
+    <hex>0x3f800cbd,0xbfffda75,0x3f7f9b93,0x3fffda7b,0xbf7fb501,</hex>
+  </filter>
+  <filter name="PEQ_2_4" addr="8345">
     <freq>18.0</freq>
     <q>8.0</q>
     <boost>-3.5</boost>
@@ -918,7 +927,7 @@
     <dec>0.9999701317408799,-1.9998184963588814,0.9998497524059675,1.9998184963588814,-0.9998198841468473,</dec>
     <hex>0x3f7ffe0b,0xbffffa0d,0x3f7ff627,0x3ffffa0d,0xbf7ff432,</hex>
   </filter>
-  <filter name="PEQ_2_4" addr="8345">
+  <filter name="PEQ_2_5" addr="8350">
     <freq>30.0</freq>
     <q>3.0</q>
     <boost>-1.2</boost>
@@ -926,15 +935,6 @@
     <bypass>0</bypass>
     <dec>0.9999547687726728,-1.999295084573496,0.9993441697623984,1.999295084573496,-0.999298938535071,</dec>
     <hex>0x3f7ffd09,0xbfffe8e7,0x3f7fd505,0x3fffe8e7,0xbf7fd20e,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>1000</freq>
-    <q>0.7</q>
-    <boost>0</boost>
-    <type>PK</type>
-    <bypass>1</bypass>
-    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
-    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Alien: Earth</beq_title><beq_alt_title /><beq_sortTitle>alien: earth</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Alien-%20Earth%20(2025)%20S01%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Alien-%20Earth%20(2025)%20S01%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>157239</beq_theMovieDB><beq_poster>/jT8sUpBrqgQpHWuUukpAmWdyJzD.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="18">Drama</genre><genre id="10765">Sci-Fi &amp; Fantasy</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Alien: Earth</beq_title><beq_alt_title /><beq_sortTitle>alien: earth</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Alien-%20Earth%20(2025)%20S01%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Alien-%20Earth%20(2025)%20S01%20DD%2Bhm.jpg</beq_pvaURL><beq_edition /><beq_season>01</beq_season><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.</beq_overview><beq_rating>TV-MA</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>157239</beq_theMovieDB><beq_poster>/yueXS3q8BtoWekcHOATFHicLl3e.jpg</beq_poster><beq_runtime /><beq_collection /><beq_audioTypes><audioType>DD+</audioType></beq_audioTypes><beq_genres><genre id="10765">Sci-Fi &amp; Fantasy</genre><genre id="18">Drama</genre></beq_genres></beq_metadata></setting>
