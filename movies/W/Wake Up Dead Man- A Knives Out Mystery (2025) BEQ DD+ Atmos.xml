@@ -802,49 +802,49 @@
     </para>
   </fir>
   <filter name="PEQ_1_1" addr="8280">
-    <freq>11.0</freq>
-    <q>6.0</q>
+    <freq>18.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003649970184785,-1.998751513437105,0.9983887147412537,1.9987521750144182,-0.9987530501824189,</dec>
+    <hex>0x3f800bf6,0xbfffd717,0x3f7f9667,0x3fffd71c,0xbf7fae48,</hex>
+  </filter>
+  <filter name="PEQ_1_2" addr="8285">
+    <freq>18.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003649970184785,-1.998751513437105,0.9983887147412537,1.9987521750144182,-0.9987530501824189,</dec>
+    <hex>0x3f800bf6,0xbfffd717,0x3f7f9667,0x3fffd71c,0xbf7fae48,</hex>
+  </filter>
+  <filter name="PEQ_1_3" addr="8290">
+    <freq>24.0</freq>
+    <q>9.0</q>
     <boost>-1.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999896269106533,-1.9998686775267525,0.9998795689077555,1.9998686775267525,-0.9998691958184088,</dec>
-    <hex>0x3f7fff52,0xbffffbb2,0x3f7ff81c,0x3ffffbb2,0xbf7ff76d,</hex>
-  </filter>
-  <filter name="PEQ_1_2" addr="8285">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
-  </filter>
-  <filter name="PEQ_1_3" addr="8290">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
+    <dec>0.9999849123234718,-1.9998072779240952,0.999824832766499,1.9998072779240952,-0.9998097450899708,</dec>
+    <hex>0x3f7fff03,0xbffff9af,0x3f7ff485,0x3ffff9af,0xbf7ff388,</hex>
   </filter>
   <filter name="PEQ_1_4" addr="8295">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
-  </filter>
-  <filter name="PEQ_1_5" addr="8300">
-    <freq>21.0</freq>
+    <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-2.2</boost>
+    <boost>-1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999418389443281,-1.9994782427287374,0.9995382923970365,1.9994782427287374,-0.9994801313413645,</dec>
-    <hex>0x3f7ffc30,0xbfffeee7,0x3f7fe1be,0x3fffeee7,0xbf7fddee,</hex>
+    <dec>0.9999472152978036,-1.999286969558488,0.9993436082066163,1.999286969558488,-0.9992908235044198,</dec>
+    <hex>0x3f7ffc8a,0xbfffe8a3,0x3f7fd4fc,0x3fffe8a3,0xbf7fd186,</hex>
+  </filter>
+  <filter name="PEQ_1_5" addr="8300">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_1_6" addr="8305">
     <freq>1000</freq>
@@ -892,49 +892,49 @@
     <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_1" addr="8330">
-    <freq>11.0</freq>
-    <q>6.0</q>
+    <freq>18.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003649970184785,-1.998751513437105,0.9983887147412537,1.9987521750144182,-0.9987530501824189,</dec>
+    <hex>0x3f800bf6,0xbfffd717,0x3f7f9667,0x3fffd71c,0xbf7fae48,</hex>
+  </filter>
+  <filter name="PEQ_2_2" addr="8335">
+    <freq>18.0</freq>
+    <q>0.75</q>
+    <boost>8.0</boost>
+    <type>SL</type>
+    <bypass>0</bypass>
+    <dec>1.0003649970184785,-1.998751513437105,0.9983887147412537,1.9987521750144182,-0.9987530501824189,</dec>
+    <hex>0x3f800bf6,0xbfffd717,0x3f7f9667,0x3fffd71c,0xbf7fae48,</hex>
+  </filter>
+  <filter name="PEQ_2_3" addr="8340">
+    <freq>24.0</freq>
+    <q>9.0</q>
     <boost>-1.5</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999896269106533,-1.9998686775267525,0.9998795689077555,1.9998686775267525,-0.9998691958184088,</dec>
-    <hex>0x3f7fff52,0xbffffbb2,0x3f7ff81c,0x3ffffbb2,0xbf7ff76d,</hex>
-  </filter>
-  <filter name="PEQ_2_2" addr="8335">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
-  </filter>
-  <filter name="PEQ_2_3" addr="8340">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
+    <dec>0.9999849123234718,-1.9998072779240952,0.999824832766499,1.9998072779240952,-0.9998097450899708,</dec>
+    <hex>0x3f7fff03,0xbffff9af,0x3f7ff485,0x3ffff9af,0xbf7ff388,</hex>
   </filter>
   <filter name="PEQ_2_4" addr="8345">
-    <freq>13.0</freq>
-    <q>0.75</q>
-    <boost>7.7</boost>
-    <type>SL</type>
-    <bypass>0</bypass>
-    <dec>1.0002535380164508,-1.999090665562587,0.9988382547608411,1.9990909969087478,-0.9990914614311314,</dec>
-    <hex>0x3f80084f,0xbfffe234,0x3f7fb3dd,0x3fffe237,0xbf7fc475,</hex>
-  </filter>
-  <filter name="PEQ_2_5" addr="8350">
-    <freq>21.0</freq>
+    <freq>30.0</freq>
     <q>3.0</q>
-    <boost>-2.2</boost>
+    <boost>-1.4</boost>
     <type>PK</type>
     <bypass>0</bypass>
-    <dec>0.9999418389443281,-1.9994782427287374,0.9995382923970365,1.9994782427287374,-0.9994801313413645,</dec>
-    <hex>0x3f7ffc30,0xbfffeee7,0x3f7fe1be,0x3fffeee7,0xbf7fddee,</hex>
+    <dec>0.9999472152978036,-1.999286969558488,0.9993436082066163,1.999286969558488,-0.9992908235044198,</dec>
+    <hex>0x3f7ffc8a,0xbfffe8a3,0x3f7fd4fc,0x3fffe8a3,0xbf7fd186,</hex>
+  </filter>
+  <filter name="PEQ_2_5" addr="8350">
+    <freq>1000</freq>
+    <q>0.7</q>
+    <boost>0</boost>
+    <type>PK</type>
+    <bypass>1</bypass>
+    <dec>1.0,0.0,0.0,-0.0,-0.0,</dec>
+    <hex>0x3f800000,0x00000000,0x00000000,0x80000000,0x80000000,</hex>
   </filter>
   <filter name="PEQ_2_6" addr="8355">
     <freq>1000</freq>
@@ -1414,4 +1414,4 @@
     <hex>3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f71277f,bff1277f,3f71277f,3ff0e556,bf62d351,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,3f797b53,bff97b53,3f797b53,3ff936e1,bf737f8b,</hex>
   </filter>
   <link />
-<beq_metadata><beq_title>Primitive War</beq_title><beq_alt_title /><beq_sortTitle>primitive war</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Primitive%20War%20(2025)%20DD%2Bhm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Primitive%20War%20(2025)%20DD%2B.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.</beq_overview><beq_rating /><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>1257009</beq_theMovieDB><beq_poster>/egDAs0vh2SzTR07eUzdcC1XYkTS.jpg</beq_poster><beq_runtime>135</beq_runtime><beq_collection /><beq_audioTypes><audioType>DD+</audioType><audioType>DTS-HD MA 5.1</audioType></beq_audioTypes><beq_genres><genre id="28">Action</genre><genre id="27">Horror</genre><genre id="10752">War</genre></beq_genres></beq_metadata></setting>
+<beq_metadata><beq_title>Wake Up Dead Man: A Knives Out Mystery</beq_title><beq_alt_title /><beq_sortTitle>wake up dead man: a knives out mystery</beq_sortTitle><beq_year>2025</beq_year><beq_spectrumURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Wake%20Up%20Dead%20Man%20A%20Knives%20Out%20Mystery%20(2025)%20DD%2B%20Atmoshm.jpg</beq_spectrumURL><beq_pvaURL>https://raw.githubusercontent.com/kaelaria/Beq2/refs/heads/main/beq4/Wake%20Up%20Dead%20Man%20A%20Knives%20Out%20Mystery%20(2025)%20DD%2B%20Atmos.jpg</beq_pvaURL><beq_edition /><beq_season /><beq_note /><beq_warning /><beq_gain /><beq_language>English</beq_language><beq_source>Disc</beq_source><beq_overview>When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.</beq_overview><beq_rating>PG-13</beq_rating><beq_author>kaelaria</beq_author><beq_avs /><beq_theMovieDB>812583</beq_theMovieDB><beq_poster>/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg</beq_poster><beq_runtime>145</beq_runtime><beq_collection id="722971">Knives Out Collection</beq_collection><beq_audioTypes><audioType>DD+ Atmos</audioType></beq_audioTypes><beq_genres><genre id="9648">Mystery</genre><genre id="80">Crime</genre></beq_genres></beq_metadata></setting>
